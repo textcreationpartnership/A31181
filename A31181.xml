@@ -1,0 +1,1788 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Triumphant weaver, or, The art of weaving discuss'd and handled plainly shewing the various opinions of divers writers, concerning the first original and contriver of this art, now so excellent and useful in all habitable parts of the world : divided into three parts ... : written all in verse for the divertisement of all ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31181</idno>
+            <idno type="STC">Wing C116</idno>
+            <idno type="STC">ESTC R14655</idno>
+            <idno type="EEBO-CITATION">12004981</idno>
+            <idno type="OCLC">ocm 12004981</idno>
+            <idno type="VID">52291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 85:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Triumphant weaver, or, The art of weaving discuss'd and handled plainly shewing the various opinions of divers writers, concerning the first original and contriver of this art, now so excellent and useful in all habitable parts of the world : divided into three parts ... : written all in verse for the divertisement of all ...</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[4], 47 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: R.C.</note>
+                  <note>A reissue of the 1677 ed. entitled: Minerva, or, The art of weaving.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52291:1" rendition="simple:additions"/>
+            <pb facs="tcp:52291:1" rendition="simple:additions"/>
+            <p>THE <hi>Triumphant Weaver: <hi>OR,</hi>
+               </hi> The ART of WEAVING <hi>Diſcuſs'd</hi> and
+<hi>Handled.</hi>
+            </p>
+            <p>Plainly ſhewing the various Opinions of di<g ref="char:EOLhyphen"/>vers Writers, concerning the firſt Original and
+Contriver of this <hi>ART,</hi> now ſo Excellent and Uſeful in all Habitable parts of the
+World; Divided into Three <hi>PARTS.</hi>
+            </p>
+            <p>
+               <hi>The Firſt contains,</hi> The ANTIQUITY of this ſaid Art and Miſtery.</p>
+            <p>
+               <hi>The Second contains,</hi> The great Uſe and unavoidable Neceſſity of the ſame.</p>
+            <p>
+               <hi>And the Third Treats of,</hi> The great and admired Excellency of this never-enough
+Eſteemed Art of <hi>WEAVING.</hi>
+            </p>
+            <p>Written all in Verſe for the Divertiſement of all, either young or old, who are naturally
+inclin'd to the ſerious ſtudy or practice of the ſaid Art, or practically concern<g ref="char:EOLhyphen"/>ed to the
+ſame for a livelihood: hoping that it will not pleaſe thoſe only, but alſo ſuch gen<g ref="char:EOLhyphen"/>tile
+Souls as delight in curioſity.</p>
+            <q>
+               <l>Let all thy actions be juſt and upright,</l>
+               <l>Then Heaven and Earth will both in bee delight;</l>
+               <l>And Truth with Truſt thou mayſt together Weave,</l>
+               <l>Who otherwiſe ſhall do, themſelves deceive.</l>
+            </q>
+            <figure>
+               <figDesc>Two men standing at weaving looms.</figDesc>
+            </figure>
+            <p>Printed for <hi>J. Deacon,</hi> at the <hi>Rain-Bow</hi> in <hi>Holbourn,</hi> near St.
+<hi>Andrews</hi> Church, 1682.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:52291:2"/>
+            <pb facs="tcp:52291:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>SHould this Work paſs without the raſh cenſure of ſome never-ſatisfied Judger, it
+would appear miraculous; but the Wiſe Man ſaith, it is not proper for that Man to
+diſ<g ref="char:EOLhyphen"/>commend, that cannot amend; I am partly ſenſible, that I ſhall meet with ſome who
+will ſcoff at my endeavors; but notwithſtanding, it is poſſible, the more ingenious may
+ac<g ref="char:EOLhyphen"/>cept of my good meaning; I do freely proteſt, that I do not undertake this task with any
+deſign to beget my ſelf any good opinion amongſt men; but as being a Weaver, and knowing by
+experience the excellency and worth of this matchleſs Trade, would as willingly free it from that
+brand of infamy which ignorants throw upon it, as I would ac<g ref="char:EOLhyphen"/>quit my ſelf (were it in my power)
+from the calumnity of thoſe ſordid perſons, who think no men equal to themſelves in vertue
+and merit. <hi>Apelles</hi> that <hi>Grecian</hi>-Painter, drew the Picture of <hi>Venus</hi> the
+more rare and excellent, haveing aſſembled the Beauties of his Country together; ſo I
+have<g ref="char:EOLhyphen"/>ing inſpection into ſeveral Arts and myſteries (by ſome accounted famous) finding them
+far ſhort of this my inten<g ref="char:EOLhyphen"/>ded ſubject, cannot reckon them fit to be equally ranked with that
+which more Trades depend on, than any one Trade whatever in the whole Univerſe; which I ſhall
+make appear to you in the following Treatiſe: alſo recounting to you, thoſe many eminent and
+worthy perſons, who in former Ages, frequently practiſed the ſame. He that ſeeks
+applauſe, may miſs of his aim, but he that labours how to be oblidging according to his
+Ability, may in the concluſi<g ref="char:EOLhyphen"/>on, meet with a <hi>Vale Domine,</hi> whilſt I Subſcribe my
+ſelf yours,</p>
+            <closer>
+               <signed>R. C.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:52291:3"/>
+            <l>THat <hi>Naamah</hi> Siſter was to <hi>Tubal Cain,</hi>
+            </l>
+            <l>Firſt us'd this Art, the Scripture doth make plain;</l>
+            <l>Next one <hi>Araechne,</hi> born in <hi>Lidia,</hi>
+            </l>
+            <l>Did Weaving uſe, ſome antient Writers ſay:</l>
+            <l>Then <hi>Pamphila,</hi> Daughter of <hi>Platis,</hi> ſhe</l>
+            <l>Practic'd the ſame, old Writers do agree;</l>
+            <l>Some ſay that <hi>Attalus</hi> did firſt perceive,</l>
+            <l>And firſt find out the ready way to Weave.</l>
+            <l>The <hi>Babilonians</hi> and <hi>Egyptians</hi> too,</l>
+            <l>Are ſaid to be the firſt that this Art knew:</l>
+            <l>Without all doubt, Women whoſe brains were bent</l>
+            <l>To ſtudy, might this Art at firſt invent;</l>
+            <l>And ſince their times ſome ripe ingenious Men</l>
+            <l>To what they did, augmented more agen:</l>
+            <l>So that at laſt 'tis finiſh'd and compleat,</l>
+            <l>True, without fault; perfect, without deceit.</l>
+            <l>Had not this Art by numbers ſo increaſt,</l>
+            <l>It had been then the beſt of Arts; at leaſt</l>
+            <l>More flouriſhing by much, than what it is,</l>
+            <l>Pardon me Sirs, if I do judge amiſs,</l>
+            <l>Many have err'd by too too fond believing,</l>
+            <l>But doubtleſs this hath ſpoyl'd the Trade of Weaving;</l>
+            <l>That in it ſelf hath more Varieties</l>
+            <l>Than all the Arts the World did e're deviſe;</l>
+            <l>So to conclude, I think no Art can be</l>
+            <l>More full of praiſe, for Ingenuity.</l>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="canto">
+            <pb n="1" facs="tcp:52291:3"/>
+            <head>The Firſt <hi>CANTO.</hi>
+            </head>
+            <argument>
+               <l>The Writer briefly doth relate</l>
+               <l>Mans making, Bliſs, fall, wretched ſtate:</l>
+               <l>What his firſt Cloathing was, and then</l>
+               <l>Who <hi>Weaving</hi> firſt devis'd, and When;</l>
+               <l>So far as he can learn relates:</l>
+               <l>Which done, the Prayſes Celebrates</l>
+               <l>Of <hi>Worthy Women,</hi> who thereby</l>
+               <l>And otherwiſe deſervedly</l>
+               <l>Have purchas'd fame; which being done</l>
+               <l>This <hi>Canto</hi> to an end doth Run.</l>
+            </argument>
+            <l>WHen God the World did make and every Creature</l>
+            <l>That therein is, of every Form and Nature;</l>
+            <l>Man, the perfection, <hi>Crown, Epitome</hi>
+            </l>
+            <l>Of all he did Create, reſerved he</l>
+            <l>As his laſt and beſt work; that ſo he might</l>
+            <l>As in a leſſer Frame preſent our ſight</l>
+            <l>With whatſoever he before had wrought;</l>
+            <l>And this into ſo ſmal a Form he brought,</l>
+            <l>That Man in him the whole doth Comprehend,</l>
+            <l>Which were it not that I much time ſhould ſpend</l>
+            <l>Beſide my purpoſe, I partly could ſhow</l>
+            <pb n="2" facs="tcp:52291:4"/>
+            <l>Nay Man in's firſt eſtate was more then ſo;</l>
+            <l>For he not onely <hi>Microcoſmos</hi> was,</l>
+            <l>But God in him did his own Image place;</l>
+            <l>Which our Divines ſay was his innocence,</l>
+            <l>(Till he by ſinning raz'd it out from thence;)</l>
+            <l>And well might be, for God no ſin doth know,</l>
+            <l>Nor Man did, till he fell, as <hi>Scriptures</hi> ſhow:</l>
+            <l>And had our Grand-ſire <hi>Adam</hi> nere known ſin</l>
+            <l>The Art of Weaving need not to have been:</l>
+            <l>For he before he did Commit offence,</l>
+            <l>As I have ſaid, was Cloath'd with innocence;</l>
+            <l>But when through <hi>Satans</hi> wiles, he folly wrought,</l>
+            <l>Sin brought forth ſhame, and ſhame a Covering ſought</l>
+            <l>And (wanting fitter,) they Figg leaves did take,</l>
+            <l>Of which by ſhames conſtraint they <hi>Aprons</hi> make.</l>
+            <l>Thus as the Proverb ſayes, Man's quickly run</l>
+            <l>Out of Gods bleſſing into the warm Sun:</l>
+            <l>For he that even now all knowledge knew,</l>
+            <l>And to whom all perfection did accrew,</l>
+            <l>In whom all Sapience and all Science reſted,</l>
+            <l>Is now through diſobedience ſo deveſted</l>
+            <l>Of all his former knowledge, that he had</l>
+            <l>Not underſtanding left him how to clad</l>
+            <l>His naked body: O moſt haples fate!</l>
+            <l>O alteration great! O wretched ſtate!</l>
+            <l>O great unhappy loſs! How could it be</l>
+            <l>When he thought what he late was, and now ſee</l>
+            <l>A change ſo ſtrange, and that ſo ſodainly,</l>
+            <l>But that he ſhould forthwith deſpair and dye?</l>
+            <l>Doubtles th' event had ſo been; had not he</l>
+            <l>Who his ne'er failes at need, moſt graciouſly</l>
+            <l>Upheld him by his Mercy, and likewiſe</l>
+            <pb n="3" facs="tcp:52291:4"/>
+            <l>Promiſ'd God ſhould deſcend, that Man might riſe:</l>
+            <l>Nay more, when he in pitty did behold</l>
+            <l>Mans naked body ſubject to the cold</l>
+            <l>Of Winters blaſtes, and heat of Summers Sun,</l>
+            <l>Alſo how ignorant he was become:</l>
+            <l>God made them Coats of Skins, in which aray</l>
+            <l>They thought themſelves (poor wretches) very gay.</l>
+            <l>See here how he that late was Lord of all</l>
+            <l>That had a being on this Earthy Ball,</l>
+            <l>Is of a ſuddain now become ſo poor</l>
+            <l>That he muſt thruſt his ſervant out of dore,</l>
+            <l>And force his goods his great need to ſupply,</l>
+            <l>Or he himſelf muſt cold and naked lye;</l>
+            <l>The beſt Mans ſervant muſt be ſtript offs ſkin,</l>
+            <l>That Man the Maſter might be wrap'd therein.</l>
+            <l>This their firſt Cloathing was: but time that brings</l>
+            <l>All things about, and from whoſe being ſprings</l>
+            <l>Every invention, in time brought to paſs</l>
+            <l>The <hi>Art of Weaving:</hi> but when that time was</l>
+            <l>It much uncertain is: report doth go</l>
+            <l>
+               <hi>Minerva</hi> did Invent it; but all know</l>
+            <l>Who are but meanly read in Hiſtory,</l>
+            <l>That this report of her no truth can be:</l>
+            <l>For Authors of beſt Credit do relate</l>
+            <l>
+               <hi>Minerva's</hi> life was of no elder date</l>
+            <l>Then in or ſomewhat after <hi>Moſes</hi> dayes:</l>
+            <l>And let me tell you what this <hi>Moſes</hi> ſayes</l>
+            <l>Concerning <hi>Weaving,</hi> for 'tis onely he</l>
+            <l>That muſt herein our chiefeſt witneſs be:</l>
+            <l>He being the firſt Hiſtorian that ere writ,</l>
+            <l>And whoſe writing none can except 'gainſt it:</l>
+            <l>For he gives us to underſtand that when</l>
+            <pb n="4" facs="tcp:52291:5"/>
+            <l>The Tabernacle was erected, then</l>
+            <l>The Curtains of fine twined Linnen were,</l>
+            <l>And Blew, Purple, and Scarlet Silk was there;</l>
+            <l>All which muſt needs be Weavers work, or how</l>
+            <l>It could Imbroydred be I do not know;</l>
+            <l>Alſo blew Riband to ty the Curtains were</l>
+            <l>Appoynted, as the Text makes it appear.</l>
+            <l>And to <hi>Minerva</hi> this could not belong,</l>
+            <l>For ſhee was then not born or very yong</l>
+            <l>Nay, if you backward look youl Weaving ſee,</l>
+            <l>Above three hundred years elder to bee:</l>
+            <l>For <hi>Abrahams</hi> Servant to <hi>Rebekah</hi> gave</l>
+            <l>Rayments, which Rayments I would gladly crave</l>
+            <l>Of any Man that can informe me whether</l>
+            <l>It were not rather Weavers work, then leather?</l>
+            <l>And that <hi>Eſaus</hi> goodly Rayment Certainly</l>
+            <l>Was Cloath; or Silk, (not Leather,) none deny:</l>
+            <l>But here's as ſure a proof, as can be had,</l>
+            <l>Againſt which no exceptions can be made,</l>
+            <l>That before this, when <hi>Lot</hi> was priſoner led,</l>
+            <l>And preſently by <hi>Abraham</hi> reſcued,</l>
+            <l>He tould the King He would not one thred take</l>
+            <l>Of all the ſpoyl: And what can any make</l>
+            <l>This thred to be, but Silk, Cloath, or apparrel</l>
+            <l>That had been plundred in the former quarrel?</l>
+            <l>More backward yet, when <hi>Noah</hi> did plant the Vine,</l>
+            <l>And became drunk by drinking of the Wine,</l>
+            <l>And ſo (not being himſelf,) uncover'd lay</l>
+            <l>When his two modeſt Sons did make no ſtay</l>
+            <l>To take a Garment, and going backward do</l>
+            <l>Cover his nakedneſs; and who can ſhow</l>
+            <l>That this Garment was Leather? Rather I</l>
+            <pb n="5" facs="tcp:52291:5"/>
+            <l>Suppoſe it Cloath, and Weavings Antiquity</l>
+            <l>A Thouſand years more ancient then <hi>Noahs Floud,</hi>
+            </l>
+            <l>As probably it may be underſtood.</l>
+            <l>Ile one degree therefore more run retrograde</l>
+            <l>To enquire of what old <hi>Jabal's</hi> Tents were made?</l>
+            <l>If any ſay of boughs; doubtles thoſe they</l>
+            <l>Had uſed before this time many a day;</l>
+            <l>If others ſay of Leather, that I ſuppoſe</l>
+            <l>(If Weaving were not) they wanted to make Cloathes.</l>
+            <l>But why might not thoſe Tents of Cloath be wrought,</l>
+            <l>And Weaving ere that time into uſe brought?</l>
+            <l>For the Worlds glaſs I gheſs had then run out</l>
+            <l>At leaſt five hundred years, or thereabout:</l>
+            <l>And might not the <hi>Weaver</hi> be as well then</l>
+            <l>As the <hi>Smith,</hi> the <hi>Maſon,</hi> and <hi>Muſitian;</hi>
+            </l>
+            <l>And doubtles many other Trades, whoſe uſe</l>
+            <l>That profit brings not which ours doth produce?</l>
+            <l>And if (as ſayth <hi>Joſephus) Aſtronomie</hi>
+            </l>
+            <l>Invented was by <hi>Seth,</hi> unto which he</l>
+            <l>Could not atain, but firſt he skill'd muſt bee</l>
+            <l>In <hi>Arithmetick,</hi> and in <hi>Geometrie:</hi>
+            </l>
+            <l>So others might as their Genius inclin'd</l>
+            <l>Imploy their Studies other Arts to find;</l>
+            <l>And none could be more fit, nor was more needed</l>
+            <l>Then Weaving, if they their own welfare heeded.</l>
+            <l>But I muſt leave it doubtfull, becauſe none</l>
+            <l>Can certainly affirm when it begun.</l>
+            <l>Now Ile return again, and as I go</l>
+            <l>As far as my reading doth reach will ſhow,</l>
+            <l>Who, and what they were that are ſaid to be</l>
+            <l>The firſt Inventers of our Miſterie.</l>
+            <l>Here I muſt take my Riſe, and to you ſhow</l>
+            <pb n="6" facs="tcp:52291:6"/>
+            <l>What <hi>Lanquet</hi> or <hi>Cooper</hi> would have us know</l>
+            <l>Out of their <hi>Chronicle,</hi> for they do ſay</l>
+            <l>Weaving invented was by <hi>Naamah,</hi>
+            </l>
+            <l>Siſter to <hi>Tubal-cain,</hi> and ſo might be,</l>
+            <l>For ſhee noting her Brethrens induſtry,</l>
+            <l>That each of them a ſeveral Art deviſed,</l>
+            <l>Might ſhee not (alſo) thereby be ſurpriſed</l>
+            <l>With emulation of their far ſpred fame?</l>
+            <l>And perhaps hoping ſo to have her Name</l>
+            <l>Enrolled among theirs, bent all her powers</l>
+            <l>To bring to paſs this worthy Art of ours?</l>
+            <l>And that Her Brother <hi>Jabals</hi> Tents might be</l>
+            <l>Of Cloath ſhee wrought, none knowes the contrarie</l>
+            <l>But this may be a truth: for if we look</l>
+            <l>Judiciouſly into the Sacred Book</l>
+            <l>Among the Daughters born to Men before</l>
+            <l>The univerſal floud the World run ore,</l>
+            <l>You ſhall not read of any one but ſhee</l>
+            <l>And <hi>Lamech's</hi> Wives, that nam'd are expreſly;</l>
+            <l>And for ſome ſpecial reaſon, (doubtleſs) ſhee</l>
+            <l>Was mention'd above others, although we</l>
+            <l>Know not the cauſe, nor I think ever hath</l>
+            <l>Reavealed been, more then what that Text ſaith.</l>
+            <l>But leaving her, as very probably</l>
+            <l>To be th' Inventor of our Miſtery:</l>
+            <l>I doe intend here alſo to declare</l>
+            <l>What others beſides her recorded are</l>
+            <l>To be the firſt Deviſers of it, that</l>
+            <l>What thereof written is, I may relate.</l>
+            <l>
+               <hi>Poliodorus</hi> in his Hiſtory</l>
+            <l>
+               <hi>De Inventione Rerum</hi> doth ſpecifie</l>
+            <l>Three worthy Women, and of theſe three one</l>
+            <pb n="7" facs="tcp:52291:6"/>
+            <l>
+               <hi>Minerva</hi> is; and he ſayes ſhee alone</l>
+            <l>Deviſed firſt to make Wool into Cloath,</l>
+            <l>Which very likely is to be a troath:</l>
+            <l>For I remember that I formerly</l>
+            <l>Have read of <hi>Bacchus,</hi> who moſt Valiantly</l>
+            <l>Did lead an Army into <hi>India,</hi> where</l>
+            <l>He won much fame, as Hiſtories declare:</l>
+            <l>And that <hi>Minerva</hi> as Couragiouſly</l>
+            <l>Being his Siſter bore him Company;</l>
+            <l>And many Countreys and great Citties he</l>
+            <l>Conquer'd, being alwayes Crown'd with Victory,</l>
+            <l>Until he ſiedge did to one Citty lay</l>
+            <l>From before which he ſoon was driven away</l>
+            <l>By Lightning and Thunder, that did proceed</l>
+            <l>From off thoſe Walls, as we do plainly read:</l>
+            <l>And what can any Man judge this to be</l>
+            <l>But Thundring Cannon ſhott? For certainly</l>
+            <l>It then in uſe among them was, though we</l>
+            <l>But late (yet much to ſoon) are come to be</l>
+            <l>Accquainted with it, not being yet three hundred years,</l>
+            <l>But they as many thouſands, as appeares;</l>
+            <l>For ſo long tis ſince <hi>Bacchus</hi> and <hi>Minerva</hi> did</l>
+            <l>Conquer <hi>Eaſt-India,</hi> as of them we read.</l>
+            <l>So Printing hath in <hi>Chyna</hi> and thoſe parts</l>
+            <l>Been no Man knows how long: and other Arts</l>
+            <l>As Weaving, and ſuch as did them concern,</l>
+            <l>And there <hi>Minerva</hi> might her knowledge learn;</l>
+            <l>Although 'tis very likely that they there</l>
+            <l>(The Countrey being hot) all Silk did wear:</l>
+            <l>But ſhee to <hi>Greece</hi> returning, where the Sun</l>
+            <l>Being not ſo vehement, firſt begun</l>
+            <l>To exerciſe her Silk in Wool; and ſo</l>
+            <pb n="8" facs="tcp:52291:7"/>
+            <l>It may be true, what <hi>Poliodore</hi> doth ſhew:</l>
+            <l>And this is a good reaſon to produce</l>
+            <l>To us that Silk-weaving was firſt in uſe;</l>
+            <l>And thoſe Garments of which we in Scripture read,</l>
+            <l>Tis very like did all from Silk proceed.</l>
+            <l>But let me mention <hi>Bacchus</hi> once agen,</l>
+            <l>Who returning Victor back to <hi>Greece,</hi> did then</l>
+            <l>From <hi>India</hi> bring <hi>Vines</hi> with him home, and ſo</l>
+            <l>They <hi>Wine</hi> in <hi>Europe</hi> here firſt came to know:</l>
+            <l>And for this great and good Commodity,</l>
+            <l>They with a God-head did him dignify,</l>
+            <l>Whoſe memory continueth to theſe times,</l>
+            <l>We idely ſtiling <hi>Bacchus</hi> God of <hi>Wines;</hi>
+            </l>
+            <l>Who hath more followers then the greateſt Sect</l>
+            <l>Of all theſe many that us ſo infect.</l>
+            <l>
+               <hi>Minerva</hi> no leſs Honour (by our Trade,</l>
+            <l>And other Arts ſhee taught) gain'd being made</l>
+            <l>The Goddeſs of Arts and Armes: ſo I</l>
+            <l>Shee being our <hi>Matron</hi> would ſhew her deitie:</l>
+            <l>And this their Weaving and their Vines I gheſs,</l>
+            <l>They had from <hi>Noah,</hi> who did thoſe parts poſſeſs</l>
+            <l>After the floud, who there the Vine did plant,</l>
+            <l>And being Drunk therewith did Covering want:</l>
+            <l>And I ſuppoſe that Garment which was brought,</l>
+            <l>Some kind of work was, by a Weaver wrought;</l>
+            <l>And Weaving be (as I did lately ſay)</l>
+            <l>Invented by, or before <hi>Naamah.</hi>
+            </l>
+            <l>But I have long digreſt; now Ile proceed</l>
+            <l>To ſhew more what from <hi>Poliodore</hi> I read.</l>
+            <l>Linnen Cloath ſayeth he, th' invention was</l>
+            <l>Of one <hi>Arachne,</hi> being a <hi>Liddian</hi> Laſs,</l>
+            <l>But what ſhee was, or when liv'd, he doth not Name,</l>
+            <pb n="9" facs="tcp:52291:7"/>
+            <l>But <hi>Ovid</hi> ſayes ſhee of mean Parents came.</l>
+            <l>He further writes, that one <hi>Pamphila</hi> who</l>
+            <l>The Daughter was of <hi>Platis,</hi> did firſt ſhow,</l>
+            <l>The way of Weaving Silk, whoſe dwelling Place</l>
+            <l>As he relates, in th' Ile of <hi>Coos</hi> was:</l>
+            <l>But in what Age ſhee liv'd he doth not ſhow:</l>
+            <l>Neither do I in my ſmal reading know:</l>
+            <l>But that muſt be long ſince, otherwiſe ſhee</l>
+            <l>Could not th' Inventor of Silk-weaving be:</l>
+            <l>Further he goeth on, and doth relate</l>
+            <l>That Cloath of Gold and rich Roabs of eſtate</l>
+            <l>Th' Invention was of <hi>Attulus:</hi> Nay he</l>
+            <l>In one place ſayes the <hi>Babilonians</hi> be</l>
+            <l>Th' Inventors of our Art; and in another</l>
+            <l>Th' <hi>Egyptians:</hi> but how this can hang together</l>
+            <l>Let others Cenſure, for ſome ingeniouſly</l>
+            <l>Think, he hath herein dealt as faithfully</l>
+            <l>As when our Eighth King <hi>Henry</hi> did imploy</l>
+            <l>Him, to compile one entire <hi>Hiſtory,</hi>
+            </l>
+            <l>Containing the Occurrences of our Nation,</l>
+            <l>Since People in it firſt had Habitation,</l>
+            <l>Unto thoſe times, that the deeds of our Ile,</l>
+            <l>He into one ſole Vollumne might compile:</l>
+            <l>And to that purpoſe our Chiefeſt Hiſtories,</l>
+            <l>Ancient Reccords, Books of Antiquities,</l>
+            <l>Were to his Lodging, or his Study ſent,</l>
+            <l>(As I have ſaid,) onely for that intent;</l>
+            <l>But he either envying our Iles fame ſhould ſurpaſs,</l>
+            <l>The <hi>Italians</hi> praiſe, where he a Native was,</l>
+            <l>Or, for he was not able that to do,</l>
+            <l>Which by the King he was appointed to,</l>
+            <l>Or, through his negligence, they all were fired;</l>
+            <pb n="10" facs="tcp:52291:8"/>
+            <l>Without a reſcue and ſuddainly expired.</l>
+            <l>Which work hath ſince by learned <hi>Cambden</hi> been</l>
+            <l>Effected, as to his laſting praiſe is ſeen:</l>
+            <l>For his <hi>Brittania</hi> doth Proclame his worth,</l>
+            <l>And Englands Fame and Monuments ſet forth.</l>
+            <l>But for the other if the Abridgement be</l>
+            <l>Tranſlated from his large Book faithfully,</l>
+            <l>He hath dealt as careleſs with our Miſtery;</l>
+            <l>For three things do compleat a Hiſtory:</l>
+            <l>That's Perſons, Time, and Place; two of which he</l>
+            <l>Hath oft ommitted here, but chiefly Time,</l>
+            <l>Which next to Perſons is, herein the prime:</l>
+            <l>For if we knew the time when they did live,</l>
+            <l>We might a more exact conjecture give</l>
+            <l>Of their deviſing of it: but how ere,</l>
+            <l>We read Women th' Inventors of it were;</l>
+            <l>And be it true, 'tis no diſparagement,</l>
+            <l>That worthy Women did it firſt Invent.</l>
+            <l>For they in other things have famous been,</l>
+            <l>As may in Hiſtory be plainly ſeen.</l>
+            <l>To inſtance in a few, <hi>Semiramis</hi>
+            </l>
+            <l>Who liv'd in <hi>Abrahams</hi> time, renowned is,</l>
+            <l>Whoſe manly courage, and ſtout heart was ſuch,</l>
+            <l>That <hi>Babels Empire,</hi> ſhe enlarged much:</l>
+            <l>And <hi>India</hi> her high praiſe can teſtifie,</l>
+            <l>Had ſhee not falne to ſenſuality.</l>
+            <l>So likewiſe <hi>Tomaris,</hi> a <hi>Sythian Queen,</hi>
+            </l>
+            <l>By her brave vallour, no leſs fame did win,</l>
+            <l>Who in the Field, durſt th' <hi>Perſian Monarch</hi> meet,</l>
+            <l>Warlike <hi>Cyrus,</hi> though his Armies were great,</l>
+            <l>Him ſhee ore came, and in a Tub of bloud,</l>
+            <l>Did caſt his Head, ſaying: if it be good</l>
+            <pb n="11" facs="tcp:52291:8"/>
+            <l>There drink thy fill, in bloud thou didſt delight,</l>
+            <l>And much bloud ſpilt: now bloud ſhall thee requite:</l>
+            <l>So th' <hi>Amaſonian Queen, Penthaſitia,</hi>
+            </l>
+            <l>Stout <hi>Achilles</hi> could not her diſmay;</l>
+            <l>Though he ('tis ſaid,) was ſeven Cubites high,</l>
+            <l>His height nor ſtrength, could not her terrifie;</l>
+            <l>Neither did on his manly power ſtand,</l>
+            <l>But durſt encounter with him, hand for hand;</l>
+            <l>Although, he <hi>Hector,</hi> and brave <hi>Troylus</hi> ſlew,</l>
+            <l>Yet ſhee had hopes that ſhee might him ſubdue;</l>
+            <l>And though ſhee fail'd, What Man could more adventer</l>
+            <l>Then in the Liſts, with ſuch a Champion enter?</l>
+            <l>So in <hi>Phyloſophy, Hippacia,</hi> was</l>
+            <l>Learned ſo well, ſhee many did ſurpaſs;</l>
+            <l>For to her laſting praiſe 'tis write that ſhee,</l>
+            <l>In th' open Schooles, oft read <hi>Phyloſophy.</hi>
+            </l>
+            <l>So <hi>Sapho</hi> was an excellent <hi>Poet</hi> known</l>
+            <l>As by thoſe that have writ of her is ſhown:</l>
+            <l>So an Engliſh Woman at <hi>Rome</hi> frequently,</l>
+            <l>In mans apparrel read Divinity;</l>
+            <l>Whoſe Learning, and whoſe Zeal was thought ſo great</l>
+            <l>That ſhee thereby attain'd the <hi>Papall</hi> ſeat;</l>
+            <l>And by the name of <hi>John</hi> the <hi>Eight,</hi> (tis true)</l>
+            <l>Was <hi>Pope</hi> of <hi>Rome</hi> until ſhe fell in two.</l>
+            <l>So <hi>Mercia,</hi> a Noble Lady who</l>
+            <l>A King of <hi>Britains</hi> Wife was, long ago;</l>
+            <l>Here deviſd Laws, which long after her name,</l>
+            <l>Were <hi>Mercian</hi> Lawes call'd to her greater fame:</l>
+            <l>To omit others, <hi>Queen Elizabeth,</hi>
+            </l>
+            <l>Even from her Crowning to her lateſt breath,</l>
+            <l>No Man could her excell, in each degree;</l>
+            <l>As tis known, to her famous memory.</l>
+            <pb n="12" facs="tcp:52291:9"/>
+            <l>So our Silk-weaving here in <hi>London</hi> was</l>
+            <l>Wrought firſt by Women (may report take place;)</l>
+            <l>Who did not only work it, but alſo</l>
+            <l>Kept Shops themſelves, and ſold it, many know:</l>
+            <l>And to the World the ſame to ſignifie,</l>
+            <l>They Linnen Cloath about their Shops poaſts ty:</l>
+            <l>Which in their memory is uſed ſtill</l>
+            <l>By many that ſuch ſorts of Ware do ſell.</l>
+            <l>And to maintain this Weavings Credit I</l>
+            <l>Did take this task in hand, and that thereby,</l>
+            <l>I might take off reproach that lyes on it</l>
+            <l>Was the Chief cauſe theſe lines by me were writ;</l>
+            <l>Whoſe true worth to uphold, and blaze his praiſe,</l>
+            <l>I will endeavour to my laſt of dayes.</l>
+            <l>Thus a few worthy Women I have ſhown</l>
+            <l>But many, many more are likewiſe known.</l>
+            <l>Many ſeveral wayes as excellent</l>
+            <l>As Men, and full as able to invent</l>
+            <l>Rare workes, would they their ſtudies bend thereto;</l>
+            <l>As I for inſtance in a few here ſhow.</l>
+            <l>Then Weavers think it no diſgrace to you,</l>
+            <l>That Women found your Trade out. Be it true.</l>
+            <l>Thus to my skill, who our Art did deviſe,</l>
+            <l>I truely to you do <hi>Anatomize.</hi>
+            </l>
+            <l>Now ſomething in its praiſe I mean to ſhow,</l>
+            <l>That the true worth of Weaving all may know,</l>
+            <l>And alſo ſtop their mouths who villifie</l>
+            <l>Our uſefull Science undeſervedly.</l>
+         </div>
+         <div n="2" type="canto">
+            <pb n="13" facs="tcp:52291:9"/>
+            <head>The Second <hi>Canto.</hi>
+            </head>
+            <argument>
+               <l>He divers Noble Perſons here</l>
+               <l>Names that in Weaving frequent were.</l>
+               <l>Then he declares its uſefulneſs;</l>
+               <l>And alſo ſundry Trades expreſs</l>
+               <l>That do depend upon it: and</l>
+               <l>What Multitudes of People ſtand</l>
+               <l>Engaged to it. Then, its praiſe</l>
+               <l>He amplifieth many wayes:</l>
+               <l>And further, to that purpoſe he</l>
+               <l>Shews the liberall Arts to be</l>
+               <l>Therein included; and likewiſe</l>
+               <l>Doth them with Weaving Sympathize.</l>
+               <l>And divers other matters couch'd</l>
+               <l>Are in this <hi>Canto;</hi> not here touch'd.</l>
+            </argument>
+            <l>WEaving Invented, as before is writ,</l>
+            <l>Though much uncertain who deviſed it;</l>
+            <l>Yet doth experience ſhew, 'tis of ſuch uſe</l>
+            <l>That a more needfull Trade none could produce:</l>
+            <l>And in its infancy was found ſo rare,</l>
+            <l>That perſonages of worth, known frequent were,</l>
+            <l>To Spin and Weave: as <hi>Hercules</hi> for one</l>
+            <l>Whoſe like, (if true) no time hath ever known;</l>
+            <l>His Twelve great Labours makes the World admire</l>
+            <l>That he ſuch difficulties could acquire;</l>
+            <l>Yet he laid by his Club, and Lyons skin,</l>
+            <l>And for a Ladies love ſate down to Spin.</l>
+            <l>So likewiſe, <hi>Sardanapalus,</hi> although he,</l>
+            <pb n="14" facs="tcp:52291:10"/>
+            <l>Did ſway th' <hi>Aſſirian</hi> firſt great <hi>Monarchy,</hi>
+            </l>
+            <l>Took much more pleaſure with Women to Spin,</l>
+            <l>And uſe the Weaving Trade, then he took in</l>
+            <l>Such great Magnificence. <hi>Attulus</hi> likewiſe,</l>
+            <l>Though King of <hi>Aſia minor,</hi> did deviſe,</l>
+            <l>Firſt to Weave Gold and Silver with Silk, and</l>
+            <l>So gain'd as much fame, as by his command.</l>
+            <l>So famous <hi>Queens</hi> and Ladies frequent were</l>
+            <l>To Spin and Weave, as Writers do declare:</l>
+            <l>As <hi>Omphate</hi> and <hi>Yole,</hi> who <hi>Hercules</hi> lov'd dear,</l>
+            <l>Though famous for their beauty, did not forbear</l>
+            <l>To uſe our Trade. And <hi>Queen Penelope</hi>
+            </l>
+            <l>
+               <hi>Vliſſes</hi> chaſt and conſtant Wife, yet ſhee</l>
+            <l>Was more delighted with the Weaving Trade,</l>
+            <l>Then in thoſe many Woers that ſhee had.</l>
+            <l>And ſo chaſt <hi>Lucrece,</hi> wife to <hi>Collatine,</hi>
+            </l>
+            <l>A worthy <hi>Roman Prince,</hi> did not decline</l>
+            <l>The Weaving Trade, for ſhee late in the night,</l>
+            <l>Was with her maides found therein to delight;</l>
+            <l>And though it after prov'd her overthrow,</l>
+            <l>Yet ſhee renowned is, for being ſo.</l>
+            <l>So great <hi>Auguſtus Caeſars Queen,</hi> though he</l>
+            <l>Were the head of the Worlds fourth <hi>Monarchy,</hi>
+            </l>
+            <l>And ſhee his <hi>Empreſs,</hi> the greateſt Woman in</l>
+            <l>
+               <hi>Europe, Aſia,</hi> and <hi>Affrica,</hi> yet was ſeen</l>
+            <l>Oft to be frequent about Weaving, and</l>
+            <l>Not on her husbands Stately titles ſtand.</l>
+            <l>So <hi>Char-le-main,</hi> renowned King of <hi>France;</hi>
+            </l>
+            <l>Who the <hi>Pope,</hi> and his own worth did advance</l>
+            <l>To be the Weſtern Emperour; yet did</l>
+            <l>His Daughter Weave, neither were they forbid</l>
+            <l>By him for all his State, to uſe the ſame;</l>
+            <pb n="15" facs="tcp:52291:10"/>
+            <l>Nor did they in ſo doing impair their fame.</l>
+            <l>And doubtleſs many worthy Perſons moe</l>
+            <l>That my ſmal reading, never came to know.</l>
+            <l>And it is out of queſtion many of theſe</l>
+            <l>If 'twere not all of them, though <hi>Hiſtories</hi>
+            </l>
+            <l>Do not reveale the ſame, did rather chooſe</l>
+            <l>Both Gold and Silke, then courſer ſtuf to uſe</l>
+            <l>In their thus exerciſing Weaving; as</l>
+            <l>We inſtance may in <hi>Attulus,</hi> who was</l>
+            <l>More noble numbred, and as was his ſtate,</l>
+            <l>Moſt rich, more rich materials aimed at.</l>
+            <l>And ſo we may imagine of the reſt,</l>
+            <l>But every one as to their mind ſeem'd beſt.</l>
+            <l>But my aim is, Silk-weaving to prefer;</l>
+            <l>And none can ſay concerning theſe, I err.</l>
+            <l>How-ere, they are a Glory to our Trade,</l>
+            <l>And grac'd it much, although it now be made</l>
+            <l>Contemptible by ſome; Antiquity</l>
+            <l>Were proud to uſe ſo rare a Miſtery.</l>
+            <l>Nor was our worthy Famous Science then,</l>
+            <l>Better approv'd of, or eſteemed with men,</l>
+            <l>Then it deſerved: and all may confeſs</l>
+            <l>That to this day it doth deſerve no leſs.</l>
+            <l>For ere it was invented, all Men know</l>
+            <l>The Begger Cloathed like the King muſt go;</l>
+            <l>For neither had wherewith Rayment to make,</l>
+            <l>Then what they from the backs of Beaſts did take.</l>
+            <l>And is't not far more decent to behold</l>
+            <l>A Royal King araid in Cloath of Gold,</l>
+            <l>Of Tiſſew, or of Silk garded with Lace,</l>
+            <l>Or rare Invention, as becomes his place,</l>
+            <l>Then ſee him Cover'd with a rough Bull hide,</l>
+            <pb n="16" facs="tcp:52291:11"/>
+            <l>Or Ravening Beares, or prancing Steeds, that died</l>
+            <l>Full of diſeaſes? or a delicious Queen,</l>
+            <l>Clad in hard Leather, whoſe tenderneſs is ſeen</l>
+            <l>To ſhrink at the leaſt wind, although ſhe's Clad</l>
+            <l>In beſt and warmeſt Cloathing may be had?</l>
+            <l>Or when they ſit at meat, to ſee their board,</l>
+            <l>To ly uncover'd, or at beſt affoard</l>
+            <l>No better furniture then what is got</l>
+            <l>From skins of Beaſts? mee-thinks 't beſeems them not.</l>
+            <l>Or when they go to reſt, to ſee Men bring</l>
+            <l>A heap of hides, to be their Covering?</l>
+            <l>Or ſee a babe new born, to be wrap'd in</l>
+            <l>No ſofter ſwathing, then a hard rough skin,</l>
+            <l>Deſerveth pitty? yet they had no more</l>
+            <l>Till Weaving furniſh'd them with better ſtore.</l>
+            <l>Yet now, for them, and others, as their degree</l>
+            <l>Requires, a fit ſupply of Cloath have we.</l>
+            <l>How many Trades, may likewiſe Bleſs the day,</l>
+            <l>When Weaving was deviſ'd? and yearly may</l>
+            <l>In memory of it, as we did Kings Coronations,</l>
+            <l>Keep one day Feſtival to all Generations?</l>
+            <l>And Weavers much reſpect, without whoſe aide</l>
+            <l>Their onely maintenance were quite decaide?</l>
+            <l>A Philoſopher did write, that if the Sun</l>
+            <l>A moment ſhould forbear his courſe to run,</l>
+            <l>The World would ruin'd be: ſo, were our Trade</l>
+            <l>A while left off, what ruines would be made</l>
+            <l>Among a world of Trades? As I ſhall ſhew</l>
+            <l>Before my work I further do purſue;</l>
+            <l>And 'twill be requiſite, for by the ſame</l>
+            <l>They'l find their diſreſpect deſerveth blame.</l>
+            <l>The Merchant that ore all the World doth Trade,</l>
+            <l>
+               <pb facs="tcp:52291:11"/>By whom our Nation is ſo famous made,</l>
+            <l>Weavers work is the chief Commoditie</l>
+            <l>That he tranſporteth hence, and therefore he</l>
+            <l>May much reſpect him, for if he were gone,</l>
+            <l>That gainful Trade of his, would be orethrown:</l>
+            <l>This is his lading as he's outward bound.</l>
+            <l>And is not <hi>Linnen-Cloath,</hi> brought hither, found</l>
+            <l>Likewiſe to be a great Commoditie,</l>
+            <l>Gainful, and needful, unto each degree?</l>
+            <l>So were Silk-ſtuffs, but we being skilful grown,</l>
+            <l>To make them here, that Trade's well-nigh o'rthrown.</l>
+            <l>And Flax and Tow that's brought in, were not we</l>
+            <l>To make it Cloath, of little uſe would be:</l>
+            <l>So Cotton-Wool, without the Weaver were</l>
+            <l>As needleſs, as moſt plainly doth appear:</l>
+            <l>Nay Silk, that great and rich Commoditie,</l>
+            <l>Without our help, would like theſe, uſeleſs be,</l>
+            <l>And almoſt fit for nothing: but being we</l>
+            <l>Imploy it to profit, by our induſtrie;</l>
+            <l>Whither would not the Merchant venture, for</l>
+            <l>To gain ſo gainful a Commodity, or</l>
+            <l>What dangers not adventure to run through,</l>
+            <l>What unknown Seas, with his Ships keel to plough;</l>
+            <l>What perilous Climates paſs, and what ſtrange Lands,</l>
+            <l>Where he no word of their ſpeech underſtands;</l>
+            <l>Where peoples manners from his different are,</l>
+            <l>Where other Cuſtoms (than among us) appear;</l>
+            <l>Where other Stars ſhine, than with us give light,</l>
+            <l>Where other Gods, other Religions, quite</l>
+            <l>Contrary to ours be; other beginnings too,</l>
+            <l>Of time, and Men, than we acknowledg do</l>
+            <l>Take place; and more ſtrange Rites they uſe?</l>
+            <l>Yet he to run theſe hazards doth not refuſe,</l>
+            <pb n="18" facs="tcp:52291:12"/>
+            <l>To bring in a far-fetcht Commoditie,</l>
+            <l>Which without Weaving, of no uſe would be;</l>
+            <l>But with our help, what numbers hereby do</l>
+            <l>Gain great Eſtates, as doth experience ſhow!</l>
+            <l>The Merchant (as is ſaid) hereby doth riſe</l>
+            <l>Unto great wealth, and as great dignities.</l>
+            <l>The Mercer, not to him inferior is,</l>
+            <l>But he the Weaver may reſpect for this;</l>
+            <l>And both the Drapers may the Weaver love,</l>
+            <l>For by him, in ſo high a Sphere they move.</l>
+            <l>The Silk-man, that unto us ſilk doth ſell,</l>
+            <l>Beholding to the Weaver is as well</l>
+            <l>As any of theſe, which he knows well enough,</l>
+            <l>Oh that he would not wrong us with bad ſtuff!</l>
+            <l>Th'other Silkman alſo, who doth buy</l>
+            <l>Ware of the Weaver, may ingeniouſly</l>
+            <l>Confeſs, that by our Trade his wealth doth riſe,</l>
+            <l>Then, wherefore ſhould he us ſo much deſpiſe?</l>
+            <l>Rather in Conſcience, they might poor men give</l>
+            <l>A better price, that they might better live.</l>
+            <l>The Haberdaſher too, with theſe may ſhare,</l>
+            <l>Who might want wealth, if he wanted our ware;</l>
+            <l>And the Upholſter lack his ſtrong Bed-tike,</l>
+            <l>Rug, and Curtains, with other things ſuch like.</l>
+            <l>Nor let the Printer ore the Weaver vapour,</l>
+            <l>For without Cloath, what would he do for paper?</l>
+            <l>The Stationer too would get but ſlender fees,</l>
+            <l>If men did write on bark, or leaves of Trees</l>
+            <l>As they have done: for if weaving were gone,</l>
+            <l>Could skins be ſpar'd to write or Print upon?</l>
+            <l>And many Handicrafts, as well as theſe,</l>
+            <l>But for the Weaver, were brought on their knees,</l>
+            <pb facs="tcp:52291:12"/>
+            <l>As the Cloathworker, who us diſreſpects,</l>
+            <l>For in his <hi>Motto,</hi> he, our Trade neglects;</l>
+            <l>Naming a Ram, a Lamb, a Sheep, and Wool,</l>
+            <l>From all which he'd but little profit cull,</l>
+            <l>For what would Ram, Lamb, Sheep and wooll all gain'im,</l>
+            <l>Without the Weaver? his Trade doth ſuſtain'im.</l>
+            <l>So the Cloath-drawer would want holes to ſtop,</l>
+            <l>If in the Weaver were not his whole hope.</l>
+            <l>So the Cloath-preſſer, and the Callender,</l>
+            <l>Without the Weaver, quite diſſolved were;</l>
+            <l>And might (if poſſible) a new Trade learn,</l>
+            <l>If any be, that ours doth not concern:</l>
+            <l>The Dyer likewiſe of Silk, of Stuff, or Cloath,</l>
+            <l>To want the Weaver, would be very loath,</l>
+            <l>For on him they rely; but the laſt two</l>
+            <l>I do not know, nor with them have to do:</l>
+            <l>But for the firſt, if I might ſpeak my mind,</l>
+            <l>I'de ſay, he were not always honeſtly inclin'd;</l>
+            <l>For if Silk were uprightly dy'd, it would</l>
+            <l>When it doth come to uſing, better hold.</l>
+            <l>Nor could the Throſter ſo many imploy</l>
+            <l>Without the help of Weavings myſtery:</l>
+            <l>For his gum'd ware would then lye on his hand,</l>
+            <l>And all his Mills and Wheels might idle ſtand.</l>
+            <l>So he that Gold and Silver Wyer draws,</l>
+            <l>And thoſe that ſpin it upon Silk, have cauſe</l>
+            <l>To love the Weaver, for if he were not,</l>
+            <l>There would but ſmall gain by their Trades be got.</l>
+            <l>You'd think the Taylor I did not reſpect,</l>
+            <l>If I here in my lines ſhould him neglect:</l>
+            <l>He being ſo gentile, and one of faſhion,</l>
+            <l>Who to our Trade hath very great relation;</l>
+            <pb n="20" facs="tcp:52291:13"/>
+            <l>We weave, and pick, and dye, and dreſs, and trim,</l>
+            <l>Our Cloath, Stuff, Ribond, Lace, and all for him;</l>
+            <l>He's put in truſt therewith; without his help,</l>
+            <l>It were but like a formleſs young Bear-whelp,</l>
+            <l>That hath no ſhape, until the kind dam do</l>
+            <l>By painful labour, lick it thereinto;</l>
+            <l>So is our Weaving, until he by Art,</l>
+            <l>With it ſhapes Garments, fit for every part</l>
+            <l>Of us, wherein I hope he hath the trick,</l>
+            <l>As ſhe her whelp, ſo he'll his fingers lick;</l>
+            <l>And as the greedy Bear too well is known</l>
+            <l>To be ſo cruel, that it will ſpare none</l>
+            <l>Her paw lights on, ſo will not he likewiſe</l>
+            <l>All that he can with ſafety, make his prize?</l>
+            <l>What though he flaunt it out, and like a Knight</l>
+            <l>Wear brave Apparel? all's not Gold that's bright;</l>
+            <l>He may reſpect the Weaver for it, and</l>
+            <l>Not on his ſturdy Stilts ſo ſtately ſtand;</l>
+            <l>For he muſt fetch a number of hard ſtitches,</l>
+            <l>To flouriſh ſo with making Leather-Breeches.</l>
+            <l>Where would the Week-Merchant get Cloth to ſell</l>
+            <l>To poor folks, to be weekly paid ſo well,</l>
+            <l>But by the Weaver? ſix in <hi>Centum</hi> we</l>
+            <l>May take for Uſe <hi>per Annum;</hi> but doth not he</l>
+            <l>Tye tie unto the ſix, and ſixty make it,</l>
+            <l>Which if you like not (Sir) you may forſake it.</l>
+            <l>I likewiſe might ſome other Trades ſet down,</l>
+            <l>That do the Weaver need, as 'tis well known;</l>
+            <l>As the Whitſter, Bandſeller, Painter, and</l>
+            <l>Th'Imbroiderer, though theſe two laſt do ſtand</l>
+            <l>Upon their points, and in their boaſting ſay,</l>
+            <l>Their Trades do ſurpaſs Weaving every way:</l>
+            <pb n="21" facs="tcp:52291:13"/>
+            <l>But put the caſe they do, which is not true,</l>
+            <l>As preſently I'll mak't appear to you;</l>
+            <l>Yet weaving is their Baſis; were it gone,</l>
+            <l>What ground-work then had they to work upon?</l>
+            <l>But in their Trades there's nothing they can do,</l>
+            <l>But we the like can preſent to your view.</l>
+            <l>Doſt thou deſire the ſhape of any Beaſt?</l>
+            <l>That in our work, by us can be expreſt:</l>
+            <l>Or any Fowl, or any Fiſh to ſee?</l>
+            <l>Theſe alſo, eaſily can produced be.</l>
+            <l>Or any Tree, or Herb, or Flower? likewiſe,</l>
+            <l>We can preſent them all before your eyes:</l>
+            <l>Do you deſire a Tulip in your Hat?</l>
+            <l>The Weavers skill can furniſh you with that.</l>
+            <l>Or would you wear a Roſe or <hi>July</hi>-flower?</l>
+            <l>To make you any lies in Weavings power;</l>
+            <l>Or whatſoere you would have brought to ſight,</l>
+            <l>For 'tis the <hi>Cornucopia</hi> of delight.</l>
+            <l>And can more be produc'd by theirs, than I</l>
+            <l>Have writ, or might, if need, more amplifie?</l>
+            <l>Miſtake me not, for I aſcribe unto</l>
+            <l>Our God all power, for he doth all things do;</l>
+            <l>Ours are but ſhadows, that reſemblance bear</l>
+            <l>Of ſubſtances, that he hath made appear.</l>
+            <l>But if compared with theſe Trades, ours be,</l>
+            <l>We do ſurpaſs them in a high degree;</l>
+            <l>For where theirs for the moſt part are for ſhow,</l>
+            <l>Ours is for ſervice likewiſe, all do know;</l>
+            <l>And like to <hi>Amalthea</hi>'s <hi>Horn,</hi> hath ſtore</l>
+            <l>Of all variety, no Trade hath more:</l>
+            <l>And uſeful is to all: nay further yet,</l>
+            <l>What ſeveral multitudes of people get</l>
+            <pb n="22" facs="tcp:52291:14"/>
+            <l>Their livelihood by Weaving, or ſome Trade</l>
+            <l>Depending thereupon; that were it decaid,</l>
+            <l>I am perſwaded half the world would be,</l>
+            <l>Wanting imployment, brought to miſery.</l>
+            <l>So that all may, like as th' <hi>Aſtronomer,</hi>
+            </l>
+            <l>Before each Star doth <hi>Jupiter</hi> prefer</l>
+            <l>For magnitude; they alſo (in our praiſe,</l>
+            <l>Above each Trade) the Weaver Crown with Bays:</l>
+            <l>Or, as the <hi>Tyrians</hi> their God <hi>Hercules,</hi>
+            </l>
+            <l>(For fear they any time ſhould him diſpleaſe,</l>
+            <l>And he depart) did with a Golden threed,</l>
+            <l>To a pillar bind him, that ſo, at their need</l>
+            <l>They might implore his aid; ſo may each one,</l>
+            <l>With Cords of Love, our Trade; for were it gone,</l>
+            <l>All the world its help would quickly want.</l>
+            <l>Over the Weaver then, let no Trade vaunt.</l>
+            <l>Yet further to its praiſe, I make it appear,</l>
+            <l>The <hi>Liberal Arts</hi> in it included are;</l>
+            <l>Or, as my skill doth ſerve, I will unfold,</l>
+            <l>How it with them, doth nigh reſemblance hold:</l>
+            <l>That Weavings worth I may augment thereby,</l>
+            <l>And its deſerved praiſe more amplify.</l>
+            <l>Firſt for <hi>Arithmetick,</hi> (the numbring Art)</l>
+            <l>We imitate (almoſt) in every part.</l>
+            <l>We adde, ſubſtract, divide, and multiply,</l>
+            <l>Our Warp and Woof, as we occaſions ſee;</l>
+            <l>And every ſute we ſute, <hi>Progreſſion</hi> is</l>
+            <l>From one to millions, goes on our degrees.</l>
+            <l>The <hi>Rule of Three,</hi> of any Rule the beſt,</l>
+            <l>By our Stuff, our Loom, and Workman is expreſt;</l>
+            <l>By theſe three known, and well imploy'd in time,</l>
+            <l>We do produce a golden ſum of Coyn;</l>
+            <pb n="23" facs="tcp:52291:14"/>
+            <l>The Rule of <hi>Loſs</hi> and <hi>Gain,</hi> we often uſe;</l>
+            <l>Sometime to <hi>Barter</hi> we do not refuſe;</l>
+            <l>
+               <hi>Proportion</hi> is the form our work doth bear;</l>
+            <l>
+               <hi>Reduction</hi> is the order we keep there;</l>
+            <l>And other Rules we uſe, ſome more, ſome leſs,</l>
+            <l>As need requires, and I need not expreſs.</l>
+            <l>
+               <hi>Fractions,</hi> too often, in our work are us'd,</l>
+            <l>Moſt when the Dyer hath our Stuff abus'd.</l>
+            <l>To <hi>Extract</hi> a Root by us, you think 'tis much,</l>
+            <l>But you ſhall underſtand it is not ſuch;</l>
+            <l>For there no figure is that we eſpy,</l>
+            <l>Though wrote moſt intricate, and cunningly,</l>
+            <l>But we can draw it forth, and in our frame</l>
+            <l>With much facility explain the ſame:</l>
+            <l>And as <hi>Arithmetick</hi> doth dayly grow</l>
+            <l>More perfect than the former times did know;</l>
+            <l>As <hi>Logarithmes,</hi> or <hi>John Nepiers</hi> bones,</l>
+            <l>And great <hi>Algebra,</hi> that not many owns;</l>
+            <l>And ſeveral other Inſtruments in uſe,</l>
+            <l>As time, by time, doth to the world produce:</l>
+            <l>So is our Trade more ample many ways,</l>
+            <l>Than unto men was known in former days.</l>
+            <l>
+               <hi>Geometry</hi> is next, to which we do</l>
+            <l>In divers kinds agree, as I ſhall ſhow:</l>
+            <l>The beginning of our work compar'd may be</l>
+            <l>To a point, the original of <hi>Geometry,</hi>
+            </l>
+            <l>Our threds to lines, our work on either ſide,</l>
+            <l>To parallels which equally divide</l>
+            <l>Themſelves at diſtance, and ſo forward run,</l>
+            <l>
+               <hi>Ad infinitum,</hi> or till our work be done.</l>
+            <l>Our Leeſes, Perpendiculars, you ſee,</l>
+            <l>Plattens, Triangles, or Semi-circles be;</l>
+            <pb n="24" facs="tcp:52291:15"/>
+            <l>Our Roul a <hi>Center</hi> is, each turn we commence</l>
+            <l>Of work thereon, is a <hi>Circumference.</hi>
+            </l>
+            <l>And as by this Arts Inſtruments we may</l>
+            <l>The length, breadth, height, of any thing ſurvey,</l>
+            <l>(Except that All in all) and by its skill,</l>
+            <l>The true dimenſions give; ſo 'tis known well,</l>
+            <l>That of all forms under the imperial Heaven,</l>
+            <l>The perfect Figure may in our work begiv'n.</l>
+            <l>And as the word <hi>Geometry</hi> imports</l>
+            <l>A meaſuring of the Earth, and that all ſorts</l>
+            <l>Of Nations need the ſame; ſo is our Trade</l>
+            <l>To all the world by us, moſt uſeful made.</l>
+            <l>Next for <hi>Aſtronomy;</hi> our Trade alludes</l>
+            <l>To that, in every one of theſe ſimilitudes:</l>
+            <l>Cloath-weaving, to the Sun compar'd may be,</l>
+            <l>Keeping one conſtant courſe continually;</l>
+            <l>Silk-Stuffs, unto the Moon, never the ſame,</l>
+            <l>But always change the Figure or the Name.</l>
+            <l>Plain Ribond repreſents the fixed Stars,</l>
+            <l>Regular in its courſe, no change, no jars;</l>
+            <l>All other ſilk works, (may be compar'd) whatever,</l>
+            <l>Unto the wandring Planets, who do never</l>
+            <l>Keep any rule, but ſometimes move <hi>direct,</hi>
+            </l>
+            <l>Then <hi>Retrograde,</hi> oft changing their Aſpect:</l>
+            <l>So thoſe Silk-weavers that imployed be</l>
+            <l>In ſuch like works, we very ſeldom ſee</l>
+            <l>At any conſtant ſtay, but always changing</l>
+            <l>To this, to that, like Planets ever ranging,</l>
+            <l>From good, to better, or from bad to worſe,</l>
+            <l>Sometimes to empty, ſometimes fill the Purſe.</l>
+            <l>And as thoſe Heavenly Lamps, in their Aſpects,</l>
+            <l>By ſundry forms, produce ſundry effects;</l>
+            <pb n="25" facs="tcp:52291:15"/>
+            <l>From a Conjunction that's benevolent,</l>
+            <l>
+               <hi>Aſtrologers</hi> affirm much good is ſent;</l>
+            <l>So Malevolent Aſpects they likewiſe ſay,</l>
+            <l>Much evil doth unto Mankind convey:</l>
+            <l>So when the times fall croſs, and oppoſite,</l>
+            <l>Bad Trading doth upon the Weaver light;</l>
+            <l>But when Conjunctions that bring peace are ſent,</l>
+            <l>That to our Calling proves benevolent.</l>
+            <l>But all this doth not always fall out true,</l>
+            <l>No more than what they predict ſhall enſue;</l>
+            <l>For ſometimes we in trouble moſt enjoy,</l>
+            <l>So when they threat moſt, we have leaſt annoy.</l>
+            <l>This for <hi>Aſtronomy</hi> enough ſhall be,</l>
+            <l>To ſhew how Weaving doth with it agree.</l>
+            <l>Now <hi>Grammar</hi> ſhews it ſelf, without whoſe aid,</l>
+            <l>Who rightly can unfold what's writ or ſaid?</l>
+            <l>Thou on four feet as four ſure props doſt ſtand,</l>
+            <l>By whom to aid each Art, thou art a hand:</l>
+            <l>
+               <hi>Orthography,</hi> and <hi>Etymologie;</hi>
+            </l>
+            <l>
+               <hi>Syntaxis</hi> alſo, and laſt <hi>Proſodie:</hi>
+            </l>
+            <l>Thus are they nam'd: the firſt doth teach to ſpell</l>
+            <l>Each word aright, and then you'd write it well:</l>
+            <l>The ſecond ſhews from whence they are deriv'd,</l>
+            <l>So of the true ſence, you'l not be depriv'd:</l>
+            <l>The third to place them truly, gives you light;</l>
+            <l>The laſt how to pronounce them all aright.</l>
+            <l>In imitation whereof, we likewiſe,</l>
+            <l>To ſpell, or frame our Figure firſt deviſe;</l>
+            <l>And as our words, compos'd of letters are,</l>
+            <l>Even ſo by threds, our figures do appear;</l>
+            <l>Which if not rightly plac'd, is as much ſhame,</l>
+            <l>As to write falſe Orthography is blame:</l>
+            <pb n="26" facs="tcp:52291:16"/>
+            <l>But when we thus far have proceeded true,</l>
+            <l>We then produce our Figure to the view;</l>
+            <l>And that reſembles <hi>Etymologie,</hi>
+            </l>
+            <l>As words, ſo works, from whence deriv'd they be.</l>
+            <l>As from infinite grounds, words ſence doth grow,</l>
+            <l>So from infinite forms our Figures flow:</l>
+            <l>To ſpell true, and know the words derivation,</l>
+            <l>Is here declar'd; ſo we in imitation,</l>
+            <l>Have form'd our work, and drawn our Figures trace.</l>
+            <l>Our next is like <hi>Syntaxis,</hi> how to place,</l>
+            <l>As that each word, ſo we each Cord aright;</l>
+            <l>They to place true, we, that ours ſo may light,</l>
+            <l>Do paſs each Cord with care, as <hi>Scholars,</hi> when</l>
+            <l>They'd ſpeak true <hi>Latine,</hi> or write with their pen,</l>
+            <l>Leſt <hi>Priſcians</hi> head therein by them be broken.</l>
+            <l>Or our work falſe, both which, were a dunces token:</l>
+            <l>And as by <hi>Proſodia,</hi> they each accent weigh,</l>
+            <l>So we with care, each Cord and Thred ſurveigh;</l>
+            <l>They that their Verſe may ſweetly ſound, and we</l>
+            <l>That our work may in every part agree.</l>
+            <l>And as he knows, who is in <hi>Grammar</hi> skill'd,</l>
+            <l>Many ſubſequent <hi>Rules</hi> the Art doth yield;</l>
+            <l>As needful explanations of each ground,</l>
+            <l>And tryals to declare their knowledg ſound;</l>
+            <l>Through which young Students with much labour wander</l>
+            <l>As in a Maze, or intricate <hi>Meander,</hi>
+            </l>
+            <l>Ere he attain to a proficiencie,</l>
+            <l>Or perfect skill, in this Arts Myſterie;</l>
+            <l>Which ſome (though very ſtudious) hardly do</l>
+            <l>With all their painful Study reach unto:</l>
+            <l>So in Silk-weaving we have ſorts of work,</l>
+            <l>Wherein there doth great difficulty lurk;</l>
+            <pb n="27" facs="tcp:52291:16"/>
+            <l>That few attain to its profunditie,</l>
+            <l>Though they be of a quick capacitie:</l>
+            <l>But theſe days (more than ever) do preſent</l>
+            <l>
+               <hi>Quotidian</hi> proofs of its accompliſhment.</l>
+            <l>See here, how <hi>Grammar,</hi> and the Weaving Trade,</l>
+            <l>To agree in moſt particulars is made.</l>
+            <l>Next I'll place <hi>Logick,</hi> wherein I will ſhew</l>
+            <l>How we do correſpond with it alſo:</l>
+            <l>Ten general Heads, named <hi>Predicaments,</hi>
+            </l>
+            <l>The Rules of this Art unto us preſents;</l>
+            <l>Which ten be theſe: <hi>Subſtance</hi> the firſt muſt be,</l>
+            <l>
+               <hi>Quantity</hi> ſecond, the third <hi>Qualitie,</hi>
+            </l>
+            <l>The fourth <hi>Relation, Action</hi> the fifth, then</l>
+            <l>
+               <hi>Paſſion</hi> the ſixth, <hi>Where</hi> the ſeventh, the eighth <hi>When,</hi>
+            </l>
+            <l>The ninth is <hi>Scituation</hi> or the place,</l>
+            <l>The tenth is <hi>Habit,</hi> or the outward face:</l>
+            <l>Theſe are the ten which I'll Anatomize,</l>
+            <l>By ſhewing how we with them do ſympathize.</l>
+            <l>Thus for the firſt, our Ware's a <hi>Subſtance</hi> wrought,</l>
+            <l>In <hi>Quantity</hi> 'tis large, or narrow brought;</l>
+            <l>In <hi>Quality</hi> 'tis uſeful, and hath <hi>Relation</hi>
+            </l>
+            <l>To all mankind; <hi>Active</hi>'s the workmans faſhion;</l>
+            <l>
+               <hi>Paſſive</hi> the Loom is, it being in uſe,</l>
+            <l>
+               <hi>Where,</hi> that's the place that we think fit to chooſe;</l>
+            <l>
+               <hi>When,</hi> that's the time the workman works in it;</l>
+            <l>
+               <hi>Scituation</hi> the manner how it is made fit;</l>
+            <l>
+               <hi>Habit</hi> is the form that it doth bear.</l>
+            <l>And thus I briefly have made it appear,</l>
+            <l>That our Trade theſe includes; the next muſt be,</l>
+            <l>How it doth with a <hi>Syllogiſm</hi> agree.</l>
+            <l>Thoſe ſay that do well know the arguing Arts,</l>
+            <l>A <hi>Syllogiſm</hi> conſiſteth of three parts;</l>
+            <pb n="28" facs="tcp:52291:17"/>
+            <l>The <hi>Major, Minor,</hi> and <hi>Concluſion</hi> are</l>
+            <l>Theſe three, which thus to you I will declare.</l>
+            <l>The <hi>Propoſition,</hi> or the <hi>Major,</hi> muſt</l>
+            <l>The Maſter be; what he propounds in truſt</l>
+            <l>Unto the <hi>Minor,</hi> or the Servant, he</l>
+            <l>Doth then <hi>aſſume,</hi> and by his induſtry,</l>
+            <l>Brings it unto a right end or <hi>Concluſion;</hi>
+            </l>
+            <l>Admitting of no <hi>Fallacies</hi> intruſion;</l>
+            <l>Of which I'll ſpeak a word, it being a thing</l>
+            <l>That ever with it doth ſome falſhood bring;</l>
+            <l>And it is my deſire, that we have none,</l>
+            <l>That either do, or have in that path gone:</l>
+            <l>And adulterate Ware, that's fair to the eye,</l>
+            <l>Praiſed for good, which is a fallacy.</l>
+            <l>Thus I, as well as my skill could deviſe,</l>
+            <l>The Art of <hi>Reaſoning</hi> here, anatomize,</l>
+            <l>And ours Conſort therewith, that all may ſee,</l>
+            <l>How full our Trade is of varietie.</l>
+            <l>Now <hi>Rhetorick</hi> claims its place among theſe ſeven,</l>
+            <l>Unto which, what <hi>Encomions</hi> may be given</l>
+            <l>To expreſs its worth, and yield to it due praiſe,</l>
+            <l>Whoſe glorious luſtre, bright reſplendant rays,</l>
+            <l>Through every learned Author ſhines as clear</l>
+            <l>As at noon-tide <hi>Apollo</hi> in his Sphere,</l>
+            <l>When he through burning <hi>Cancer</hi> guides his Car,</l>
+            <l>And to our ſight his Beams moſt glorious are:</l>
+            <l>Thy <hi>Tropes</hi> are flowers, as ſome Writers ſay,</l>
+            <l>And well may be ſo named, becauſe they</l>
+            <l>So numerous are, and like varietie</l>
+            <l>With thoſe, that do Dame <hi>Tellus</hi> beautifie:</l>
+            <l>Theſe flowers choice pick'd and plac'd delight the mind,</l>
+            <l>Ours doth the Body garniſh, which to mankind</l>
+            <pb n="29" facs="tcp:52291:17"/>
+            <l>Is much more needful; thine's an ornament</l>
+            <l>To Learning in particular, but th'extent</l>
+            <l>Of ours, doth reach to all; thine to the Schools</l>
+            <l>A handmaid is, ours ſerveth wiſe and fools:</l>
+            <l>Thine needful is, but ours is much more ſo,</l>
+            <l>Yet who would not thee, rather than us forego?</l>
+            <l>But pardon me dear <hi>Rhetorick</hi> this ſtile,</l>
+            <l>And I'll endeavour now, to reconcile</l>
+            <l>Thee and our Trade together, ſhewing how we</l>
+            <l>In moſt particulars do both agree.</l>
+            <l>Ther's not a Flower in thine Art, which I</l>
+            <l>Have not orelook'd, and weighed ſeriouſly;</l>
+            <l>(Although I have here, through my want of skill,</l>
+            <l>Made uſe of few or none, with my dull quill:)</l>
+            <l>But if as one ſhould in a Garden walk,</l>
+            <l>He doth not pluck a flower from every ſtalk;</l>
+            <l>But picks one here, one there, as doth his eye</l>
+            <l>Direct him to, to pleaſe his fantaſie:</l>
+            <l>So I, to ſhew how the Silk-weaving Trade,</l>
+            <l>To conſort with the Art of <hi>Rhetorick's</hi> made,</l>
+            <l>Chooſe here and there one thence, as my</l>
+            <l>Mind ſerves; and to avoid prolixity,</l>
+            <l>Firſt for <hi>Synecdoche,</hi> or quick conceit,</l>
+            <l>On every workman that doth always wait,</l>
+            <l>For whatſoever Figure he eſpies,</l>
+            <l>By quick conceipt, he'll it anatomize;</l>
+            <l>Or by <hi>Apoſtrophe</hi> turn it about,</l>
+            <l>Producing thence another faſhion out;</l>
+            <l>As <hi>Gnome</hi> the director thinks it fit;</l>
+            <l>Or <hi>Synonymia</hi> who hath ſtore of wit.</l>
+            <l>Or otherwiſe, he will by <hi>Metaphore,</hi>
+            </l>
+            <l>Change it into another form, that's more</l>
+            <pb n="30" facs="tcp:52291:18"/>
+            <l>Agreeing to his purpoſe; or by <hi>Allegory</hi>
+            </l>
+            <l>Enlarge it, to ſet forth its greater glory;</l>
+            <l>Or by <hi>Brachiloga,</hi> he will contract it,</l>
+            <l>And into ſo ſmall form thereby compact it;</l>
+            <l>Though <hi>Paradoxon,</hi> or <hi>Enigma</hi> there,</l>
+            <l>A Wonder or a Riddle ſeem t'appear.</l>
+            <l>Such hidden myſteries, no ſcruple ſhall</l>
+            <l>To an ingenious workman be at all;</l>
+            <l>Nay with <hi>Dilemma,</hi> though his Figure be</l>
+            <l>But on one ſide, on both he'll preſently</l>
+            <l>Make it alike. Let none in any wiſe,</l>
+            <l>Imagine I herein <hi>Hyperbolize.</hi>
+            </l>
+            <l>Then Envy may, and Ignorance forbear</l>
+            <l>To ſpend their <hi>Ironie,</hi> their flout or jeer;</l>
+            <l>And with humble <hi>Metanoea,</hi> repent that</l>
+            <l>Their ignorance provok'd their tongue to prate</l>
+            <l>Beyond their knowledge; for no <hi>Eclipſis</hi> here,</l>
+            <l>Or fault committed is, as may appear.</l>
+            <l>Sweet <hi>Rhetorick,</hi> I might go on, and more</l>
+            <l>Flowers pluck from thine inexhauſted ſtore;</l>
+            <l>An<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like a <hi>Gordian</hi>-knot, wove
+curiouſly,</l>
+            <l>Them, to augment Silk-weavings praiſe, here tye:</l>
+            <l>But <hi>Paranymia,</hi> or the Proverb ſays,</l>
+            <l>Enough is as good as feaſting; therefore to raiſe</l>
+            <l>More ſimilitudes, I thought it not fit,</l>
+            <l>Or, to my skill, Ide have endeavour'd it.</l>
+            <l>All hail ſweet <hi>Muſick,</hi> thou bringſt up theſe reres,</l>
+            <l>Delightful ſounds, like <hi>Harmony</hi> of the Spheres.</l>
+            <l>How ſhall I frame a fit propinquitie,</l>
+            <l>Whereby with thee to gain affinitie?</l>
+            <l>Thy <hi>Gamuth</hi> is the firſt ſtep to thy <hi>Science,</hi>
+            </l>
+            <l>To which our pricking patterns have alliance.</l>
+            <pb n="31" facs="tcp:52291:18"/>
+            <l>No one in thee, can a proficient prove,</l>
+            <l>That therein is not skill'd; nor can we move</l>
+            <l>One degree forward, toward perfection,</l>
+            <l>If this be not our ground to build upon.</l>
+            <l>Nor a <hi>Muſitian</hi> can his <hi>melody</hi>
+            </l>
+            <l>Make pleaſing to himſelf, or ſtanders by,</l>
+            <l>Unleſs a <hi>Concord</hi> in his ſtrings be found;</l>
+            <l>Nor can our workmen any work make ſound,</l>
+            <l>Whoſe tools and tackling remain out of frame,</l>
+            <l>But when by skill, both rectifie the ſame:</l>
+            <l>Then thou and we, a <hi>Diapaſon</hi> ſtrike;</l>
+            <l>Thy <hi>Muſick</hi>'s ſweet, our Wares our Chapmen like;</l>
+            <l>And all thy Figures we do imitate,</l>
+            <l>Thy <hi>Large, Long, Brief, Semi-Brief, Sharp, and Flat;</hi>
+            </l>
+            <l>All which I could demonſtrate here, if ſo</l>
+            <l>My <hi>Time</hi> would time permit me it to do;</l>
+            <l>But I'll forbear, and briefly ſhew how we</l>
+            <l>Do correſpond with them in <hi>Melody.</hi>
+            </l>
+            <l>Thy pleaſing ſounds proceed from <hi>Inſtruments;</hi>
+            </l>
+            <l>Ours an <hi>Harmonious</hi> voice, whoſe rare accents</l>
+            <l>Have often forc'd ſweet <hi>Philomel</hi> forbear</l>
+            <l>Her ſugred notes, our ſweeter tunes to hear;</l>
+            <l>Nay great <hi>Apollo,</hi> the <hi>Muſitians</hi> God,</l>
+            <l>What time he here on earth made his aboad,</l>
+            <l>Was ſo delighted, with the curious ſtrains</l>
+            <l>Of well-tun'd ditties, pen'd by pregnant brains,</l>
+            <l>That had he not engaged been to keep</l>
+            <l>The numerous flocks of King <hi>Admetus</hi> Sheep,</l>
+            <l>Then, when rude <hi>Pan,</hi> with his <hi>Pipes</hi> ruſtick play,</l>
+            <l>Durſt to contend with his <hi>Harps</hi> lofty Lay;</l>
+            <l>The Weavers Songs, with raviſhing <hi>Melody,</hi>
+            </l>
+            <l>Did ſo delight the God of <hi>Harmony,</hi>
+            </l>
+            <pb n="32" facs="tcp:52291:19"/>
+            <l>That with them he would here have <hi>ſympathiz'd,</hi>
+            </l>
+            <l>And ſuch rare <hi>Songs</hi> to their ſweet notes devis'd;</l>
+            <l>That like to <hi>Orpheus,</hi> their inchanting Ditties</l>
+            <l>Should tame wild Beaſts, &amp; build up Towns &amp; Cities.</l>
+            <l>For this he did acknowledge, to their praiſe,</l>
+            <l>They did for <hi>Song,</hi> from all Trades bear the Bayes.</l>
+            <l>Thus 'twixt <hi>Apollo,</hi> and <hi>Minerva,</hi> I</l>
+            <l>Though in rude ſort, have wrought affinity;</l>
+            <l>But wanting her Invention, and his Wit,</l>
+            <l>My weak skill hath not faſhion'd it ſo fit,</l>
+            <l>As better Artiſts might, that better know,</l>
+            <l>For my Pen here, my Ignorance doth ſhow.</l>
+            <l>Here I have ſhew'd you how our Myſterie,</l>
+            <l>With the <hi>Seven Liberal Arts,</hi> doth nigh agree.</l>
+            <l>And now I'll ſhew, that ours more uſeful is</l>
+            <l>Than all of them; but pardon me in this:</l>
+            <l>For let none think, 'tis in the leaſt my thought,</l>
+            <l>That thoſe rare <hi>Arts</hi> ſhould in contempt be brought,</l>
+            <l>Of which the World hath ſo much uſe, and I</l>
+            <l>As dearly love, as my own liberty,</l>
+            <l>Or what is dearer to me; but to ſhow</l>
+            <l>Our Trades true worth, and likewiſe let ſuch know</l>
+            <l>Their ignorance, who do it ſo deſpiſe,</l>
+            <l>Though of its uſefulneſs, before their eyes,</l>
+            <l>Nay on themſelves, they every day partake,</l>
+            <l>Without regard thereof: but as the Snake,</l>
+            <l>Did (being nigh frozen dead) the man intreat</l>
+            <l>To put him in a place where he ſome heat</l>
+            <l>Might re-aſſume, to ſave his nigh loſt life,</l>
+            <l>Which being attain'd, he doth repay with ſtrife,</l>
+            <l>And foul ingratitude his love: even ſo,</l>
+            <l>Thoſe Peacocks now in their great bravery know</l>
+            <pb n="33" facs="tcp:52291:19"/>
+            <l>No want of Cloathing, (Nor of the ſupply</l>
+            <l>Silk-weaving yields, the ſame to beautifie;</l>
+            <l>If not all Silk,) therefore us they ſcorn:</l>
+            <l>But ſhould they go a while, as they were born,</l>
+            <l>Naked, or Cloath'd in Leather, then they would</l>
+            <l>Reſpect our Trade, and wiſh it ever ſhould</l>
+            <l>Flouriſh in fame, and reputation till</l>
+            <l>Time the laſt minute of its courſe fulfill.</l>
+            <l>But to my purpoſe: firſt for the numbring Art,</l>
+            <l>What man is there that would not gladly part</l>
+            <l>With it, and promiſe ne'er to uſe it more,</l>
+            <l>Rather than be debar'd of that rich ſtore,</l>
+            <l>And Comfort, that our Trade doth yield? and ſo</l>
+            <l>
+               <hi>Geometry,</hi> who would not it forego,</l>
+            <l>Before he'd looſe the part he doth poſſeſs</l>
+            <l>In our rich Trades moſt happy uſefulneſs?</l>
+            <l>
+               <hi>Aſtronomy</hi> too, as uſeleſs is, compar'd</l>
+            <l>To our Arts worth, as any thereof debar'd</l>
+            <l>Would ſoon acknowledg; and <hi>Muſick</hi> not at all</l>
+            <l>May with us into Competition fall:</l>
+            <l>For he other three, there need no more be ſed,</l>
+            <l>But us our Mother-Tongue would bring to bed:</l>
+            <l>And I ſuppoſe, it a much leſſer harm were</l>
+            <l>To want them all, than Cloaths to keep us warm there.</l>
+            <l>I do not mean, the plain part of each Art,</l>
+            <l>Which I to Leather-Garments may conſort,</l>
+            <l>But the abſtruſe part of each one might be</l>
+            <l>Much better ſpar'd than our rich Myſtery:</l>
+            <l>But to have both is beſt; for neither we</l>
+            <l>Could want without great loſs; and bleſt be he,</l>
+            <l>By whoſe Aſſiſtance we do both poſſeſs,</l>
+            <l>And dayly partake of their uſefulneſs.</l>
+            <pb n="34" facs="tcp:52291:20"/>
+            <l>But now a word or two, to ſhew the cauſe</l>
+            <l>That ſuch contempt upon Silk-weaving draws:</l>
+            <l>Then I herein have now no more to ſay;</l>
+            <l>But wiſh our Trade in good fame flouriſh may.</l>
+            <trailer>The end of the ſecond <hi>Canto.</hi>
+            </trailer>
+         </div>
+         <div n="3" type="canto">
+            <pb n="35" facs="tcp:52291:20"/>
+            <head>The third <hi>CANTO.</hi>
+            </head>
+            <argument>
+               <l>Here its worth repeating, he</l>
+               <l>Shewes what the chifeſt cauſes be</l>
+               <l>Of its diſparagement, and doth ſhew</l>
+               <l>From what weak grounds the ſame doth flow;</l>
+               <l>To redreſs which, uſeth declamations,</l>
+               <l>With invective dehortations;</l>
+               <l>Then he extolleth ſuch by whom</l>
+               <l>It Credit gaineth; and doth come</l>
+               <l>To ſhew what worth not long ago</l>
+               <l>It had in <hi>London,</hi> and alſo</l>
+               <l>Doth now retain by means of ſome,</l>
+               <l>Who are <hi>Silk-weavers:</hi> and ſo from</l>
+               <l>One circumſtance to another he</l>
+               <l>Proceeds, till his task ended be.</l>
+            </argument>
+            <l>IF Weaving be of ſuch Antiquity,</l>
+            <l>So uſeful, nay, of ſuch neceſſity,</l>
+            <l>That all the world in general doth it need,</l>
+            <l>And alſo ſtandeth other Trades inſtead:</l>
+            <l>And that Perſonages great and eminent,</l>
+            <l>Did with delight and pleaſure it frequent;</l>
+            <l>What is the cauſe 'tis now deſpiſed ſo,</l>
+            <l>Or by what means into ſuch contempt grow?</l>
+            <l>Being of moſt Trades, the <hi>Primum mobile,</hi>
+            </l>
+            <l>Or the firſt mover, <hi>Pole,</hi> or <hi>Axel-tree;</hi>
+            </l>
+            <pb n="36" facs="tcp:52291:21"/>
+            <l>By which they are, and principally move,</l>
+            <l>As the inferior <hi>Orbs,</hi> by that above;</l>
+            <l>Or as Learn'd <hi>Record</hi> terms his <hi>Arithmetick</hi>
+            </l>
+            <l>The ground of Arts, ſo we, (juſtly) the like</l>
+            <l>May ſtile our Trade the ground of Trades: or it</l>
+            <l>May (truely) be compared very fit</l>
+            <l>To the foundation of a houſe, for who</l>
+            <l>Is he, that doth not by experience know,</l>
+            <l>That without it, the Building ſoon would fall?</l>
+            <l>So likewiſe many Trades, yea, almoſt all,</l>
+            <l>Were brought to ruine, having no remedy,</l>
+            <l>But by the help of our rare Myſtery.</l>
+            <l>Four Cauſes here, I'll principally name,</l>
+            <l>That chiefly are the reaſons of the ſame.</l>
+            <l>The firſt, ſome ſhop-keepers, that buy our Ware,</l>
+            <l>Who, when bad Trading is, ſo cruel are,</l>
+            <l>So griping, and unconſcionable, that</l>
+            <l>When poor men come to ſell, will bid a rate</l>
+            <l>Of ſo ſmall profit, knowing they perforce</l>
+            <l>Muſt any money take, or do things worſe;</l>
+            <l>Thus by the low rate they in hard times give</l>
+            <l>Poor Weavers, they conſtrained are to live</l>
+            <l>Meanly, and ſometimes ready to want Bread,</l>
+            <l>While the other are both richly cloath'd and fed,</l>
+            <l>And in their Shops, (like Lords) moſt ſtately are,</l>
+            <l>With the profit they get by the Weavers Ware;</l>
+            <l>And the poor Weaver, by his cruelty,</l>
+            <l>Forc'd to ſpin out his Life in poverty;</l>
+            <l>Which brings a ſcandal on our Trade, while he</l>
+            <l>That is the cauſe, doth flouriſh gallantly.</l>
+            <l>Of ſome this is the Cuſtome; but there be</l>
+            <l>Others among them, deal more Chriſtianly,</l>
+            <pb n="37" facs="tcp:52291:21"/>
+            <l>By giving unto thoſe, of whom they buy,</l>
+            <l>A price that will maintain them decently:</l>
+            <l>Let a bleſſing be upon ſuch men, nay they</l>
+            <l>Will bleſſings find, now or another day;</l>
+            <l>But th'other their ſear'd hearts are grown ſo hard,</l>
+            <l>That they nor Curſe nor Bleſſing do regard,</l>
+            <l>For Griping gain, the god is they adore:</l>
+            <l>But by this means poor Weavers are kept poor;</l>
+            <l>For they having no way to raiſe a ſtock,</l>
+            <l>And th'other no Conſcience, hold them in this lock.</l>
+            <l>But there's other Silk-Weavers, who live brave,</l>
+            <l>And make thoſe men pay well for what they have:</l>
+            <l>I wiſh the reſt like theſe, could hold them to it,</l>
+            <l>And no way like good husbandry will do it.</l>
+            <l>Three other ſorts of men, I likewiſe here,</l>
+            <l>Will, though unwillingly, to you declare;</l>
+            <l>Who, if my judgment do me not deceive,</l>
+            <l>Our Trade of much fame and repute bereave:</l>
+            <l>Of which three, one is the hard-hearted man,</l>
+            <l>Who hath no mercy, neither pity can</l>
+            <l>Enter his breſt, nor knows he Chriſtianity,</l>
+            <l>Nor is i'th'leaſt acquainted with Humanitie;</l>
+            <l>But poor Children abuſe, and do not beat</l>
+            <l>Only their backs, but bellies, by want of meat;</l>
+            <l>Which makes them heartleſs that ſervice to do,</l>
+            <l>Which they by him are dayly ſet unto:</l>
+            <l>Neither can he, without the ſame ſubſiſt,</l>
+            <l>If it be not by their hard labour encreas'd,</l>
+            <l>Which they not able at all times to do,</l>
+            <l>His furious hot diſpleaſure run into,</l>
+            <l>And ſome his ſtorming rigour to prevent,</l>
+            <l>Too oft aſide ſtep, to ſcape puniſhment;</l>
+            <pb n="38" facs="tcp:52291:22"/>
+            <l>And many too many Dames, rather than they</l>
+            <l>Will ſeek a means his chollar to allay,</l>
+            <l>The more will agravate his fury, though</l>
+            <l>It ſometime proves to be their overthrow;</l>
+            <l>Rather if Boys want wit, have thou a care,</l>
+            <l>That want of patience fall not to thy ſhare;</l>
+            <l>Allure him by good Counſel, and fair words,</l>
+            <l>Both which are known, to be more powerful cords,</l>
+            <l>And ſooner will him draw t'amendment, than</l>
+            <l>The ſtricteſt courſe of the moſt cruel men:</l>
+            <l>But if that fair means will not win him to</l>
+            <l>That which is fitting, known for him to do;</l>
+            <l>Then uſe the rod, or wand, but careful be</l>
+            <l>Mercy to mix with thy ſeverity:</l>
+            <l>If thou too ſtrict art, and he run away,</l>
+            <l>Whither to ſeek him wilt thou take thy way?</l>
+            <l>And he then wanting, his wants to ſupply,</l>
+            <l>At beſt muſt beg, and in the ſtreets oft lye.</l>
+            <l>Whereby our Trade hath been much ſcandaliz'd,</l>
+            <l>For want of both being better advis'd:</l>
+            <l>Was not a Maſter and a Dame lately</l>
+            <l>In danger of life, for their great cruelty?</l>
+            <l>Let them a warning be to others, that they</l>
+            <l>By ſuch doings work not their own decay;</l>
+            <l>But pitty 'tis the Trade in general</l>
+            <l>Should cenſur'd be by ones unhappy fall.</l>
+            <l>The other two, as ſhall to you be ſhown,</l>
+            <l>Are known the Drunkard and the idle droan;</l>
+            <l>The Drunkard doth ſuch unfit carriage ſhow,</l>
+            <l>That we do now into a by-word grow;</l>
+            <l>For if a man do any Drunkard meet,</l>
+            <l>As daily ther's too many in the ſtreet,</l>
+            <pb n="39" facs="tcp:52291:22"/>
+            <l>There goes a drunken Weaver he doth cry;</l>
+            <l>Thus our Trades brought to infamy thereby.</l>
+            <l>But though the Trade thereby doth bear much blame,</l>
+            <l>Himſelf is alſo ſcourged for the ſame;</l>
+            <l>Witneſs his poverty, and poor array,</l>
+            <l>Witneſs his health and ſtrength both which decay;</l>
+            <l>Witneſs his diſreſpect with honeſt men,</l>
+            <l>Witneſs his antick, frantick carriage, when</l>
+            <l>Drink hath him overcome, that he thereby</l>
+            <l>Is jeer'd and ſcorn'd by the raskality;</l>
+            <l>And is unfit for labour made, whereby</l>
+            <l>He draws on him and his great poverty.</l>
+            <l>
+               <hi>Philip</hi> the King of <hi>Macedonia,</hi> when</l>
+            <l>He againſt the <hi>Perſians</hi> march'd with an hoſt of men,</l>
+            <l>Hearing they were inclin'd t'intemperancy,</l>
+            <l>He did forbear the war, ſaying, ſhortly</l>
+            <l>They would orethrow themſelves: ſo, even ſo</l>
+            <l>The Drunkard ſeeketh his own overthrow,</l>
+            <l>And the overthrow of his whole family;</l>
+            <l>And alſo on our Trade draws infamy.</l>
+            <l>You young men Weavers, that do yet ſtand free</l>
+            <l>From being acquainted with <hi>Ebriety</hi>
+            </l>
+            <l>If you a maſter have, or if there are</l>
+            <l>Journy-men thus inclin'd, let it be far,</l>
+            <l>Ever far from you, to follow their example,</l>
+            <l>To take delight therein, no rather trample</l>
+            <l>Under your feet the thought of that which doth</l>
+            <l>Both ſpoil the wit and memory of youth,</l>
+            <l>Wrongs their invention alſo, and doth make</l>
+            <l>Them much uncapable to undertake</l>
+            <l>What might them profit, and preferment bring,</l>
+            <l>For drunkenneſs behind it leaves a ſting</l>
+            <pb n="40" facs="tcp:52291:23"/>
+            <l>That doth the reputation wound of all,</l>
+            <l>Both old and young that in love with it fall;</l>
+            <l>And if a young mans Credit be once ſtain'd,</l>
+            <l>Much labour it will ask, ere 'tis regain'd.</l>
+            <l>Drink hath theſe three effects, as one doth ſay,</l>
+            <l>And we find it to prove true, day by day.</l>
+            <l>
+               <hi>Pleaſure, Drunkenneſs,</hi> and <hi>Sorrow</hi> be</l>
+            <l>Beyond exception taken for the three.</l>
+            <l>The firſt is (<hi>Pleaſure,</hi> that is) when 'tis taken</l>
+            <l>Moderately, but when that path's forſaken,</l>
+            <l>And we do ſwallow it down in exceſs,</l>
+            <l>That bringeth forth the ſecond, <hi>(Drunkenneſs)</hi>
+            </l>
+            <l>And if the Drunkard do live till the morrow,</l>
+            <l>He'll find the third effect, (which will be <hi>Sorrow</hi>)</l>
+            <l>Unleſs he be paſt hope, and wholly incline</l>
+            <l>Himſelf thereto, making himſelf a Swine:</l>
+            <l>Another ſays it is a Monſter that</l>
+            <l>Hath many heads, and who ſtartles not at</l>
+            <l>So ſtrange an Object? which heads are, ſaith he,</l>
+            <l>Foul Talk, and Actions that much fouler be;</l>
+            <l>With Railing, Swearing, Curſing, Quarrelling, and</l>
+            <l>Wrath, Murder, which will then be all at hand.</l>
+            <l>Oh ſuch a Monſter ſhun, whoſe poiſon foul</l>
+            <l>Will overthrow both thy Body and Soul.</l>
+            <l>And no leſs hateful is baſe <hi>Idleneſs,</hi>
+            </l>
+            <l>As every man tha'ts virtuous, will confeſs;</l>
+            <l>For it, like <hi>Drunkenneſs,</hi> doth draw on need,</l>
+            <l>And many evils more from it proceed:</l>
+            <l>The idle man's unskill'd in any Art;</l>
+            <l>The Idle Man in <hi>Virtue</hi> hath no part;</l>
+            <l>The idle man th'induſtrious diſpleaſes;</l>
+            <l>The idle man heaps on himſelf Diſeaſes;</l>
+            <pb n="41" facs="tcp:52291:23"/>
+            <l>The idle man is unto no man friend;</l>
+            <l>No not to himſelf, who time doth idly ſpend:</l>
+            <l>For dilgence attains to that, which he</l>
+            <l>Shall never do, for lack of induſtry.</l>
+            <l>The doing man hath pleaty ſtill in ſtore,</l>
+            <l>But idle negligence is always poor;</l>
+            <l>Labour gains Love, Credit and Reputation;</l>
+            <l>Negligence contempt and deteſtation.</l>
+            <l>Be thou a Maſter, Servant, or who-ere</l>
+            <l>Theſe lines of mine doth either read or hear,</l>
+            <l>Regard not who did write them, rather learn,</l>
+            <l>Between the good and evil to diſcern:</l>
+            <l>Fly drunkenneſs and ſloath, both which all know</l>
+            <l>(That do know any thing) lead unto woe;</l>
+            <l>Strive to be temperate and induſtrious, ſo</l>
+            <l>You ſhall not onely your wants overthrow,</l>
+            <l>But bring your ſelves in credit; and our Trade,</l>
+            <l>Which by ſuch miſdemeanours hath been made</l>
+            <l>Contemptible, ſhall reputation gain,</l>
+            <l>And hell-bred envies Calumny reſtrain:</l>
+            <l>But I hope men of judgment are more wiſe,</l>
+            <l>Than to give ear unto ſuch Calumnies:</l>
+            <l>For, as we ſay, One ſwallow doth not make</l>
+            <l>A Summer, ſo, I hope no man will take</l>
+            <l>Advantage from a few deſpiſed men,</l>
+            <l>The Trade in general to diſparage, when</l>
+            <l>There is not any Handycraft I know</l>
+            <l>In <hi>London,</hi> out of which there dayly grow</l>
+            <l>Men of more wealth, or known abilities;</l>
+            <l>Or few or none to higher places riſe</l>
+            <l>Than Weavers have and do: ſhould I omit</l>
+            <l>To ſpeak of ſome time paſt, which is not yet</l>
+            <pb n="42" facs="tcp:52291:24"/>
+            <l>Five hundred years, for then it is well known,</l>
+            <l>As truth by true relation hath it ſhown,</l>
+            <l>The Weavers did in <hi>London</hi> bear great ſway,</l>
+            <l>Wherein they continued many a day:</l>
+            <l>For thoſe that have read ancient Records know,</l>
+            <l>No Company in <hi>London</hi> can out-go</l>
+            <l>The Weavers by Antiquity; for we</l>
+            <l>The firſt Society in <hi>London</hi> be,</l>
+            <l>That is confirm'd by Charter, it being known</l>
+            <l>About five hundred years of age, and none,</l>
+            <l>Not any Company ſo ancient is,</l>
+            <l>Nor any Charter granted before this;</l>
+            <l>Which though it be no broader, nor in length</l>
+            <l>Exceeds a hand, it is known of that ſtrength,</l>
+            <l>Being but about ten lines, that there's not many</l>
+            <l>Charters in this City, if there be any</l>
+            <l>Puts down our Charter for validity,</l>
+            <l>As many learned Clerks can teſtify.</l>
+            <l>And I once heard Recorder <hi>Littleton</hi>
+            </l>
+            <l>Confeſs no leſs, when it he look'd upon,</l>
+            <l>Who was much taken when he did it ſee,</l>
+            <l>And reverence ſhew'd it for antiquity:</l>
+            <l>And being 'tis truth, that we are known to be</l>
+            <l>The firſt incorporated Company,</l>
+            <l>That then in <hi>London</hi> was, Weavers might well</l>
+            <l>As they then ſtood, all other Trades excel;</l>
+            <l>And <hi>Candle-wick</hi>-Street, which is yet ſo nam'd</l>
+            <l>For Weavers Looms there ſtanding, is ſtill fam'd.</l>
+            <l>I further might have boaſted, telling you how</l>
+            <l>Our Maſter ſwaid here, as the <hi>Lord</hi> Mayor now,</l>
+            <l>And after 'twas a Mayoralty, they did ride</l>
+            <l>In <hi>Purple-Gowns</hi> oft by the Mayors ſide,</l>
+            <pb n="43" facs="tcp:52291:24"/>
+            <l>But that I was not certain it was true,</l>
+            <l>And nothing on bare hearſay would I ſhew;</l>
+            <l>But fame hath ever told us it was ſo,</l>
+            <l>And from no cauſe no ſuch report could flow.</l>
+            <l>I wiſh this City Peace, Plenty, Health; may honour</l>
+            <l>Be dayly more and more conferr'd upon her;</l>
+            <l>Let her Societies flouriſh, let there be</l>
+            <l>Union within her Walls perpetually;</l>
+            <l>Let every ſeveral Corporation know</l>
+            <l>Its place and dignity, though ours below</l>
+            <l>Some others at this preſent doth appear,</l>
+            <l>This I have writ, to ſhew what once we were;</l>
+            <l>Not to detract from others, for ſome be</l>
+            <l>Honourable by their Titles, ſo are we</l>
+            <l>Expreſſed in our Charter, which hath been</l>
+            <l>Confirm'd by Parliament, as may be ſeen:</l>
+            <l>But the Proverb ſays, and all allow the ſame,</l>
+            <l>Tell me not what I was, but what I am.</l>
+            <l>What we have been my lines in part declare,</l>
+            <l>Nor need I ſhame to write what now we are;</l>
+            <l>For here is living at this preſent day,</l>
+            <l>A worthy Alderman late Lord Mayor, and may</l>
+            <l>I write without offence, although he be</l>
+            <l>Free of an Honourable Company,</l>
+            <l>I hope he will not blame me, nor deny</l>
+            <l>That he hath us'd Silk-weaving formerly;</l>
+            <l>And alſo more, his honour to augment,</l>
+            <l>Hath been a Member of our Parliament.</l>
+            <l>But of our own Members, of late had we</l>
+            <l>Two worthy Gentlemen, both ſeen to be</l>
+            <l>Aldermen of this City; alſo I</l>
+            <l>Have known them Maſters of our Company,</l>
+            <pb n="44" facs="tcp:52291:25"/>
+            <l>Being Silk-weavers, and likewiſe we have</l>
+            <l>Common Council-men, who with other grave</l>
+            <l>And ancient Citizens, are known to be</l>
+            <l>Governors of <hi>Bride-well;</hi> beſides have we</l>
+            <l>Some choſen to be of the <hi>Corporation,</hi>
+            </l>
+            <l>Where poor mens children have good Education.</l>
+            <l>Alſo in Naval conduct now have we</l>
+            <l>Many brave Weavers, who Commanders be,</l>
+            <l>Who for this Kingdom have good ſervice done,</l>
+            <l>And honour, fame, and Wealth gain'd; alſo run</l>
+            <l>Through many difficulties, and been made</l>
+            <l>Governors of ſtrong holds, who by their Trade</l>
+            <l>Are all Silk-weavers: thus by what's writ you ſee</l>
+            <l>I'th' City and the Navy both have we</l>
+            <l>Weavers of note and worth, and many more,</l>
+            <l>Which would too long for me be to run ore;</l>
+            <l>Who naturally are otherwiſe inclin'd,</l>
+            <l>And unto ſeveral ſtudies bend their mind.</l>
+            <l>Many proficients in Divinity,</l>
+            <l>And many ſtudious in Philoſophy:</l>
+            <l>Some very curious the Natures to know</l>
+            <l>Of natural things; one of which hath to ſhow</l>
+            <l>As many ſorts of moſt ſtrange rarities,</l>
+            <l>As I think ever one man ſaw with eyes:</l>
+            <l>Others in Phyſick, and Aſtrology,</l>
+            <l>Very well ſeen are, one eſpecially,</l>
+            <l>Who I cannot paſs over, nor omit</l>
+            <l>To write <hi>Encomions</hi> of him that are fit.</l>
+            <l>I formerly have read of an old Oak,</l>
+            <l>Among the Poets, that in old time ſpoke,</l>
+            <l>And gave forth doubtful Anſwers, and alſo</l>
+            <l>Of <hi>Delphos</hi> Oracle, that long ago</l>
+            <pb n="45" facs="tcp:52291:25"/>
+            <l>Anſwer'd demands, with words of double ſence;</l>
+            <l>But here is plain and true intelligence:</l>
+            <l>Many to reſolve doubts oft to him come,</l>
+            <l>Returning with great ſatisfaction home,</l>
+            <l>For his knowledg in Phyſick, and herein</l>
+            <l>Hath with ſucceſsful proof approved been;</l>
+            <l>And from <hi>Black-Fryers</hi> both Town and country can</l>
+            <l>Teſtifie, he is a well deſerving man.</l>
+            <l>It would be here too much, too long, to me,</l>
+            <l>Several men to name particularly,</l>
+            <l>For their known worth; only I will ſhow,</l>
+            <l>That we have alſo many Silk-weavers who,</l>
+            <l>In their reſpective dwellings, live as brave,</l>
+            <l>And as good fame and reputation have,</l>
+            <l>As any Trade about them, none diſprais'd,</l>
+            <l>And are as frequent in their Pariſhes rais'd,</l>
+            <l>All Offices to bear, as others be;</l>
+            <l>And not a few, but many ſuch have we;</l>
+            <l>And may their number ſtill increaſe, that ſo,</l>
+            <l>Weaving to be reſpected more might grow:</l>
+            <l>But as the pureſt <hi>Lawn</hi> may ſtained be,</l>
+            <l>And the ſweet <hi>Roſe</hi> hath pricking thorns we ſee,</l>
+            <l>Or as among good <hi>Wheat</hi> ſome <hi>Darnel</hi> grows;</l>
+            <l>So we among theſe Gentlemen have thoſe,</l>
+            <l>Who nor their own, nor the Trades fame regard,</l>
+            <l>But ſhame, diſgrace and poverty is their reward:</l>
+            <l>Which I do name with grief; but for the reſt,</l>
+            <l>Be they with <hi>Heaven</hi> and <hi>Earthly</hi> bleſſings bleſt;</l>
+            <l>For by their means, the Credit of our Trade</l>
+            <l>Upheld is much, which but for ſuch were made</l>
+            <l>Contemptible with ſome, although its worth</l>
+            <l>No pen is able fully to ſet forth;</l>
+            <pb n="46" facs="tcp:52291:26"/>
+            <l>Much leſs hath mine here, who the unfitteſt am</l>
+            <l>Of (many) any to declare the ſame.</l>
+            <l>But I have long deſir'd to do what here</l>
+            <l>You ſee is done; if well or mean, how-ere,</l>
+            <l>I hope my friends with good acceptance will,</l>
+            <l>Value my meaning, wave my want of skill:</l>
+            <l>For my intent was Silk-weaving to raiſe</l>
+            <l>One ſtep out of diſgrace, where many days</l>
+            <l>It hath lyen ſtruggling, as wanting a hand,</l>
+            <l>To lift it on its former legs to ſtand;</l>
+            <l>This on its knees may ſet it, an abler pen</l>
+            <l>May if well order'd place it upright agen:</l>
+            <l>Which being done, its glory than ſhall laſt,</l>
+            <l>Until the laſt <hi>Trump</hi> ſoundeth its laſt blaſt;</l>
+            <l>For what ever doth periſh, Weaving will</l>
+            <l>Continue until <hi>Time</hi> his <hi>Time</hi> fulfil;</l>
+            <l>And Snow-Ball like, the further it doth paſs,</l>
+            <l>Gather fair fame to blot out foul diſgrace.</l>
+            <l>
+               <hi>Nil ultra</hi> now I'll ſet unto my pen,</l>
+            <l>And crave for favour of thoſe Gentlemen,</l>
+            <l>Thoſe well deſerving Weavers, who time hath made</l>
+            <l>To be the praiſe and glory of our Trade;</l>
+            <l>Hoping that they will no exceptions take</l>
+            <l>For what's here done, being partly for their ſake,</l>
+            <l>And partly to admoniſh thoſe that run</l>
+            <l>Out of the way, I did what here is done;</l>
+            <l>And alſo to take off that ſcandalous blot,</l>
+            <l>Which the Trade if conſidered deſerves not:</l>
+            <l>And if I gain their loving favour, I</l>
+            <l>Have the chief end that I deſire hereby.</l>
+            <l>Let <hi>Momus</hi> then jeer on, and flout his fill,</l>
+            <l>Let the defaming Critick cenſure ſtill,</l>
+            <pb n="47" facs="tcp:52291:26"/>
+            <l>Let traducing <hi>Zoilus</hi> my lines reprehend;</l>
+            <l>Let them all their whole ſtock of malice ſpend,</l>
+            <l>And from their tongues their envious poyſon ſpit,</l>
+            <l>My harmleſs lines will gain more fame by it:</l>
+            <l>For Innocence the more it is depreſt,</l>
+            <l>Will like the <hi>Palm,</hi> gain a more flouriſhing Creſt.</l>
+            <l>And ſo relying on my friends good will,</l>
+            <l>I remain their obliged ſervant ſtill;</l>
+            <l>And ſhall be ever willing them to ſerve,</l>
+            <l>If ſo my weakneſs may their loves deſerve.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
